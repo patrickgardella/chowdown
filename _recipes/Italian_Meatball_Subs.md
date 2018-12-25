@@ -4,6 +4,8 @@ layout: recipe
 title: Italian Meatball Subs
 date: Jul 04 2015 19:11:17
 tags: Beef, Entree, Keeper
+image: Giant-Meatball-Sub_exps17780_GB143373D01_15_2bC_RMS-1.jpg
+imageCredit: https://www.tasteofhome.com/recipes/italian-meatball-subs/
 
 ingredients:
 - 2 eggs, lightly beaten

@@ -4,9 +4,11 @@ layout: recipe
 title: Make-Ahead Turkey Gravy
 date: Nov 23 2013 19:54:04
 tags: SideDish, Keeper
-preptime: 30 min
-cooktime: 2 hours
-totaltime: 2 hrs 30 min
+prepTime: 30M
+cookTime: 2H
+totalTime: 2H30M
+image: makeaheadturkeygravy.jpg
+imageCredit: https://www.allrecipes.com/cook/1093463/
 
 ingredients:
 - 6 turkey wings

@@ -1,12 +1,14 @@
 ---
 
 layout: recipe
-title: New York-Style Pizza Sauce Recipe
+title: New York-Style Pizza Sauce
 date: Aug 14 2018 15:58:05
 tags: Sauce, Keeper, Italian
-preptime: 15 min
-totaltime: 2 hours
-serves: Makes enough for 2 to 4 (12-inch) pies, depending on how much sauce you like
+prepTime: 15 min
+totalTime: 2 hours
+recipeYield: Makes enough for 2 to 4 (12-inch) pies, depending on how much sauce you like
+image: 20101007-pizza-lab-sauce.jpg
+imageCredit: https://www.seriouseats.com/user/profile/kenjilopezalt
 
 ingredients:
 - 1 (28-ounce) can whole peeled tomatoes

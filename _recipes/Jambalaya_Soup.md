@@ -5,7 +5,9 @@ title: Jambalaya Soup - Iowa Girl Eats
 date: Sep 19 2016 15:02:35
 tags: Pork, Soup, Chicken, Not-Tried
 source: http://iowagirleats.com/2016/09/19/jambalaya-soup
-serves: 8
+recipeYield: 8
+image: Jambalaya-Soup-iowagirleats-02.jpg
+imageCredit: http://iowagirleats.com/2016/09/19/jambalaya-soup 
 
 ingredients:
 - 4 slices bacon, chopped

@@ -5,8 +5,10 @@ title: Italian Meringue
 date: Mar 15 2014 13:57:54
 tags: Dessert, Keeper, Italian
 source: http://rouxbe.com/recipes/2699-italian-meringue
-cooktime: 20 min
-totaltime: 20 min
+cooktime: 20M
+totaltime: 20M
+image: ItalianMerengue_P_HD1280.JPG
+imageCredit: http://rouxbe.com/recipes/2699-italian-meringue
 
 ingredients:
 - 1 cup granulated sugar

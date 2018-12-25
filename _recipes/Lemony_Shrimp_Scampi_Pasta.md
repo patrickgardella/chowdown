@@ -5,10 +5,12 @@ title: Lemony Shrimp Scampi Pasta
 date: Dec 09 2017 21:54:43
 tags: Pasta, Seafood, Keeper
 source: Melissa d'Arabian
-preptime: 10 min
-cookitime: 10 min
-totaltime: 10min
-serves: 4
+prepTime: 10 min
+cookTime: 10 min
+totalTime: 10min
+recipeYield: 4
+image: LemonyShrimpScampiPasta.jpeg
+imageCredit: https://www.foodnetwork.com/profiles/talent/melissa-darabian
 
 ingredients:
 - 6 garlic cloves, pressed or grated
