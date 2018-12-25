@@ -37,9 +37,9 @@ directions:
 - Roll the dough out on a lightly floured surface, until it is approx 16 inches long by 12 inches wide. It should be approx 1/4 inch thick.
 - Preheat oven to 350 F degrees. Grease a 9x13 inch baking pan.
 - To make filling, combine the butter or margarine, brown sugar and cinnamon in a bowl.
-- Spread the mixture evenly over the surface of the dough. Alternatively you can spread the butter first on the dough and then the brown sugar and cinnamon mixture.
+- Spread the mixture evenly over the surface of the dough. Alternatively you can melt the butter, then spread the butter on the dough and then the brown sugar and cinnamon mixture.
 - Working carefully, from the long edge, roll the dough down to the bottom edge. The roll should be about 18 inches in length. Cut the roll into 1 1/2 inch slices. You might find it easier if you use a piece of floss vs a knife.
-- Place the cut rolls in the prepared pan. Cover them with a damp towel. Let them rise again for another 30 minutes until they double in size.
+- Place the cut rolls in the prepared pan. Cover them with a damp towel. Let them rise again for another 30 minutes until they double in size. Or store in fridge overnight (put straight in oven next day).
 - Bake for 20 minutes or until light golden brown. Cooking time can vary greatly!
 - While the rolls are baking make the icing by mixing all ingredients and beat well with an electric mixer until fluffy.
 - When the rolls are done, spread generously with icing.
