@@ -5,7 +5,7 @@ title: Cranberry Pavlova
 date: Nov 21 2018 14:53:22
 tags: Not-Tried, Dessert
 source: https://skillet.lifehacker.com/brighten-up-your-thanksgiving-dessert-spread-with-a-cra-1830539135
-image: cranberrypavlova.jpg
+image: cranberrypavlova.webp
 imageCredit: https://kinja.com/aanewton
 
 ingredients:

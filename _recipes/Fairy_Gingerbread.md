@@ -4,7 +4,7 @@ layout: recipe
 title: Fairy Gingerbread
 date: Jan 14 2013 14:30:31
 tags: Cookie
-image: fairygingerbread.jpg
+image: fairygingerbread.webp
 imageCredit: https://www.cookscountry.com/recipes/6365-fairy-gingerbread-cookies
 
 ingredients:

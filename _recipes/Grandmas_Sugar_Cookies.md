@@ -6,7 +6,7 @@ date: Apr 04 2015 00:38:29
 tags: Cookie, Keeper
 source: Blanche Beltz
 prepTime: 10M
-image: soft_sugar_cookies.jpg
+image: soft_sugar_cookies.webp
 imageCredit: https://prettysimplesweet.com/sample-page/
 
 ingredients:
