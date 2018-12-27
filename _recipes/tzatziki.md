@@ -2,14 +2,12 @@
 
 layout: recipe
 title: Tzatziki
-date: Dec 27 2019 15:23:10
-tags: Italian, Side
+date: Dec 27 2018 11:23:10
+tags: MiddleEastern, Not-Tried
 recipeYield: 6
-prepTime: 5M
 cookTime: 25M
-totalTime: 45M
 image: tzatziki.jpg
-imageCredit: https://cooking.nytimes.com/recipes/1016438-tzatziki
+imageCredit: NYT 
 
 ingredients:
 - European cucumber or 3 Persian cucumbers, finely chopped or grated
