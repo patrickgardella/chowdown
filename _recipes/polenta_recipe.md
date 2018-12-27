@@ -12,12 +12,12 @@ image: polenta.jpg
 imageCredit: https://www.instructables.com/member/jessyratfink/
 
 ingredients:
-  * 1 cup cornmeal or corn grits
-  * 3 cups water
-  * 1/2 - 1 teaspoon of salt
-  * 2 tablespoons of butter/margarine
-  * pepper to taste
-  * parmesan/romano/asiago - optional but tasty!
+- 1 cup cornmeal or corn grits
+- 3 cups water
+- 1/2 - 1 teaspoon of salt
+- 2 tablespoons of butter/margarine
+- pepper to taste
+- parmesan/romano/asiago - optional but tasty!
 
 directions:
 - Bring the water to a boil and add the corn grits and salt. Stir this well!
