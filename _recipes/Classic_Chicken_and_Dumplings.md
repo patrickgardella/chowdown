@@ -6,7 +6,7 @@ date: Jun 28 2015 22:47:50
 tags: Chicken
 source: Modified from Southern Living January 2010 (p 126)
 totalTime: 2H30M
-image: classicchickendumplings.jpg
+image: classicchickendumplings.webp
 imageCredit: https://www.myrecipes.com/recipe/classic-chicken-dumplings
 
 ingredients:
