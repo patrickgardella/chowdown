@@ -11,7 +11,7 @@ cookTime: 10M
 totalTime: 1H25M
 
 ingredients:
---  8 ounces flank steak, sliced against the grain into ¼-inch thick slices
+-  8 ounces flank steak, sliced against the grain into ¼-inch thick slices
 - 1 teaspoon oil
 - 1 teaspoon soy sauce
 - 1 tablespoon cornstarch, plus ¼ cup
