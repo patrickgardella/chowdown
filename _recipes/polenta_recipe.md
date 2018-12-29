@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: Polenta Recipe
+title: Polenta
 date: Jun 05 2013 15:23:10
 tags: Italian, Side
 recipeYield: 4
