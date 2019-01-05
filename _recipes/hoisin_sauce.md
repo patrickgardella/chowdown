@@ -1,11 +1,11 @@
 ---
 
 layout: recipe
-title: Homemade Hoisin Sauce
+title: Hoisin Sauce
 prepTime: 5M
 cookTime: 5M
 totalTime: 10M
-tags: Chinese, NotTried
+tags: Chinese, Not-Tried
 
 ingredients:
 - 1/4 cup soy sauce

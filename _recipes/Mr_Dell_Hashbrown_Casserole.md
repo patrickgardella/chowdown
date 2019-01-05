@@ -5,7 +5,7 @@ title: "Mr Dell Hashbrown Casserole"
 date: Dec 24 2015 13:25:30
 image: MrDellsHashbrownCasserole.jpg
 imagecredit: https://www.geniuskitchen.com/recipe/mr-dells-original-potato-casserole-315111 
-tags: SideDish, Keeper
+tags: Side, Keeper
 
 ingredients:
 - 10 cups Mr. Dell’s Shredded Hash Browns

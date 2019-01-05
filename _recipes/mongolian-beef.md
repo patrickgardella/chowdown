@@ -4,7 +4,7 @@ layout: recipe
 title:  "Mongolian Beef"
 image: mongolian-beef.jpg
 imagecredit: https://flic.kr/p/8ANQTc
-tags: Beef, Entree, NotTried, Chinese
+tags: Beef, Entree, Not-Tried, Chinese
 source: https://thewoksoflife.com/2015/07/mongolian-beef-recipe/
 prepTime: 1H15M
 cookTime: 10M
