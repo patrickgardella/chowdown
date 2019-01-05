@@ -12,16 +12,15 @@ recipeYield: 4 servings
 ingredients:
 - 1/2 cup sweet butter, melted
 - 1 cup heavy cream, warmed
-- 3/4 cup freshly grated Parmesan cheese
+- 3/4 cup freshly grated Parmesan cheese (2.5 oz)
 - salt to taste
 - 1/4 teaspoon freshly ground pepper
 - 8 ounces fettuccini or angel hair pasta, cooked
 - 3/4 pound cooked shrimp, optional (or use chicken)
 
 directions:
-- Mix first 5 ingredients, beat until smooth, adding pasta water to thicken.
-- Pour over warm pasta.
-- Add shrimp and toss to coat.
-- Serve immediately.
-
+- Mix first 5 ingredients, beat until smooth, adding pasta water to thicken, if necessary
+- Pour over warm pasta
+- Add shrimp and toss to coat
+- Serve immediately
 ---
