@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: Alton Brown's Crispy
+title: Alton Browns Crispy Chocolate Chip Cookie
 image: the-crispy.jpg
 imagecredit: https://www.foodnetwork.com/recipes/alton-brown/the-thin-recipe-2013278
 tags: Cookie, Keeper
