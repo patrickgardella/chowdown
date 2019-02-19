@@ -8,6 +8,7 @@ tags: Cookie, Keeper
 prep_time: 20 min
 cook_time: 15 min
 yield: 2.5 dozen
+date: 2019-02-18
 
 ingredients:
 - 2 1/4 cups all-purpose flour
