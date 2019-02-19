@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: Chewy Chocolate Chip Recipe
+title: Alton Browns Chewy Chocolate Chip Cookie
 source: Alton Brown - https://www.foodnetwork.com/recipes/alton-brown/the-chewy-recipe-1909046
 image: chocolatechipcookie2.jpg
 imageCredit: https://www.handletheheat.com/
