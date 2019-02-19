@@ -27,3 +27,5 @@ directions:
 - Cream the butter in the mixer's work bowl, starting on low speed to soften the butter. Add the sugars. Increase the speed, and cream the mixture until light and fluffy. Reduce the speed and add the egg mixture slowly. Increase the speed and mix until well combined.
 - Slowly add the flour mixture, scraping the sides of the bowl until thoroughly combined. Stir in the chocolate chips. Scoop onto parchment-lined baking sheets, 6 cookies per sheet. Bake for 13 to 15 minutes, checking the cookies after 5 minutes. Rotate the baking sheet for more even browning.
 - Remove the cookies from the pans immediately. Once cooled, store in an airtight container.
+
+---
