@@ -29,3 +29,6 @@ directions:
 - Remove the cookies from the pans immediately. Once cooled, store in an airtight container.
 
 ---
+Make sure that you let the egg, milk, and vanilla come to room temperature. Otherwise the cookies will be puffy.
+
+Also, these cookies go from done to overdone very quickly.  Watch closely!
