@@ -18,3 +18,4 @@ ingredients:
 
 directions:
 - Preheat the oven to 400 degrees . In a large bowl, mix the cheeses, minced chipotle and adobo sauce. Transfer to a medium cast-iron or other ovenproof skillet, spreading in an even layer. Bake until the cheese melts, bubbles and browns in spots, 15 to 20 minutes. Garnish with toppings. Serve with the chips.
+---
