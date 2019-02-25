@@ -6,7 +6,7 @@ yield: 4
 date: 2019-02-24
 prep_time: 40 min
 cook_time: 50 min
-image: coq_au_vin.jpg
+image: coq-au-vin.jpg
 imagecredit: https://www.rachaelraymag.com/recipe/coq-au-vin
 tags: Chicken, Entree, NotTried, French
 
