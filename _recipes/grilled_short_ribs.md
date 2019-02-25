@@ -5,6 +5,7 @@ title: Grilled Short Ribs with Scallions and Rice
 yield: 4
 prep_time: 15 min
 cook_time: 5 min
+date: 2019-02-24
 image: short_ribs_scallions.jpg
 imagecredit: https://www.rachaelraymag.com/recipe/short-ribs-with-soy-scallions
 tags: Beef, NotTried, Entree

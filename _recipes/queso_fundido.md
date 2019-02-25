@@ -1,6 +1,7 @@
 ---
 layout: recipe
 title: Loaded Queso Fundido
+date: 2019-02-24
 yield: 8
 prep_time: 15 min
 cook_time: 15 min

@@ -1,6 +1,8 @@
 ---
 layout: recipe
 title: Rachel's Spicy Chicken Parm
+date: 2019-02-24
+tags: Italian, Chicken, Keeper, Entree
 yields: 4
 image: chicken_parm.jpg
 imagecredit: https://www.rachaelrayshow.com/recipes/rachaels-spicy-chicken-parm

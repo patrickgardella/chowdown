@@ -6,7 +6,7 @@ yield: 4
 prep_time: 35 min
 cook_time: 5 min
 tags: Vietnamese, NotTried, Shrimp, Seafood, Entree
-image: larb_gai.jpg
+image: shrimp_coconut_caramel.jpg
 imagecredit: https://www.rachaelraymag.com/recipe/shrimp-coconut-caramel-sauce
 
 ingredients:
