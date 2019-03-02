@@ -5,3 +5,5 @@ permalink: /about/
 ---
 
 Chowdown, a plain text recipe database for hackers
+
+With Patrick's recipes
