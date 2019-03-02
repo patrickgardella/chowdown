@@ -5,7 +5,7 @@ title: Raspberry-Almond Crumble Bars
 image: barco_raspberry_almond.jpg
 imagecredit: https://www.southernliving.com/recipes/raspberry-crumble-bars
 prep_time: 25 min 
-cook_time: 
+cook_time: 52 min
 total_time: 4 hrs 10 min
 yield: 32
 tags: Dessert, NotTried
