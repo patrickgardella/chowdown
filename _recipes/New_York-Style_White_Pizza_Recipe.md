@@ -3,7 +3,7 @@
 layout: recipe
 title: New York-Style White Pizza Recipe  
 date: Jul 04 2017 19:00:32  
-tags: Not-Tried, Sauce, Italian  
+tags: Sauce, Italian, Keeper
 image: whitePizza.jpg 
 imageCredit: http://flickr.com/photos/thepizzareview/2341886253/)
 
@@ -32,7 +32,7 @@ ingredients:
 directions:
 - Place a baking stone on the middle shelf of the oven and preheat on the highest setting for at least 1 hour. Shape the dough ball using the toss-and-spin method, stretching it to a diameter of about 12 inches. The dough should be about 1/4 inch thick and slightly thicker toward the edge. Transfer the dough to a peel or an inverted sheet pan that has been dusted with flour.
 - In a bowl, stir together the ricotta, salt, thyme, and pepper. Spread the White Sauce over the surface of the dough, leaving a 1/4-inch border uncovered. Spread the ricotta mixture evenly over the White Sauce.
-- Carefully slice the pizza from the peel onto the baking stone. It should take about 12 minutes to make. When it is done, the crust should be crisp and slightly charred on the edge and the cheese should be bubbling and just beginning to caramelize. The underside of the crust should be brown and crisp, not white and soft.
+- Carefully slide the pizza from the peel onto the baking stone. It should take about 12 minutes to make. When it is done, the crust should be crisp and slightly charred on the edge and the cheese should be bubbling and just beginning to caramelize. The underside of the crust should be brown and crisp, not white and soft.
 - Remove the finished pizza from the oven and garnish it immediately with the parsley. Let the pizza cool for about 3 minutes before slicing and serving. If you want a “snappier” crust, let the pizza cool completely, then return the individual slices to the hot oven for recrisping.
 - With a large metal spoon, stir together all the ingredients into a 4-quart bowl or the bowl of an electric stand mixer until combined. If mixing with an electric mixer, fit it with the dough hook and mix on a low speed for 4 minutes, or until all the flour gathers to form a coarse ball. Let the dough rest for 5 minutes, then mix again on medium-low speed for an additional 2 minutes, or until the dough clears the sides of the bowl and sticks just a little to the bottom. If the dough is too soft and sticky to hold its shape, mix in more flour by the tablespoonful. If mixing by hand, repeatedly dip one of your hands or the spoon into room-temperature water and use it much like a dough hook, working the dough vigorously into a coarse ball as you rotate the bowl with your other hand. As all the flour is incorporated into the ball, about 4 minutes, the dough will begin to strengthen; when this occurs, let the dough rest for 5 minutes and then resume mixing for an additional 2 to 3 minutes, or until the dough is slightly sticky, soft, and supple. If the dough is too soft and sticky to hold its shape, mix in more flour by the tablespoonful; if it is too stiff or dry, mix in more water by the tablespoonful.
 - Immediately divide the dough into 3 equal pieces. Round each piece into a ball and brush or rub each ball with olive or vegetable oil. Place each ball inside its own zippered freezer bag. Let the balls sit at room temperature for 15 minutes, then put them in the refrigerator overnight or freeze any pieces you will not be using the next day.

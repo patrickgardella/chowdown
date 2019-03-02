@@ -3,7 +3,7 @@
 layout: recipe
 title: Tzatziki
 date: Dec 27 2018 11:23:10
-tags: MiddleEastern, Not-Tried
+tags: MiddleEastern, Keeper, Sauce 
 recipeYield: 6
 cookTime: 25M
 image: tzatziki.jpg

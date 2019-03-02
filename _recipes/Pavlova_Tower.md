@@ -3,7 +3,7 @@
 layout: recipe
 title: Pavlova Tower
 date: Jun 30 2018 11:27:31
-tags: Not-Tried, Dessert
+tags: Dessert, Keeper
 recipeYield: 30-40
 image: pavolvatower.jpg
 imageCredit: https://www.surreylife.co.uk/food-drink/recipes/great-british-bake-off-winner-jo-wheatley-s-perfect-pavlova-tower-for-special-occasions-1-4172304

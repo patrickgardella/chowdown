@@ -3,7 +3,7 @@
 layout: recipe
 title: Falafel
 date: Dec 14 2018 18:04:00
-tags: MiddleEastern, Not-Tried
+tags: MiddleEastern, Keeper 
 recipeYield: Makes 19 falafel fritters (1.5 T cookie scoop), for 4 to 6 pitas sandwiches
 prepTime: 24H
 cookTime: 30M
