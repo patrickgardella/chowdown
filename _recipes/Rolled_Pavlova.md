@@ -3,7 +3,7 @@
 layout: recipe
 title: Rolled Pavlova
 date: Dec 13 2017 22:47:02
-tags: Not-Tried, Dessert
+tags: NotTried, Dessert
 source: https://www.npr.org/books/titles/558868149/sweet-desserts-from-londons-ottolenghi)
 recipeYield: 10-12
 image: sweet_rolled-pavlova_custom.jpg

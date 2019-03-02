@@ -3,7 +3,7 @@
 layout: recipe
 title: Pita Bread
 date: Dec 14 2018 18:04:42
-tags: Bread, Not-Tried
+tags: Bread, NotTried
 source: https://smittenkitchen.com/2009/03/pita-bread/
 image: pita-bread.jpg
 imageSource: https://smittenkitchen.com/about/

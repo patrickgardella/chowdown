@@ -3,7 +3,7 @@
 layout: recipe
 title: Potato Pancakes
 date: Feb 09 2013 17:11:17
-tags: Side, Not-Tried
+tags: Side, NotTried
 image: potato-latkes1.jpg
 imageCredit: https://smittenkitchen.com
 source: Smitten Kitchen - https://smittenkitchen.com/2008/12/potato-pancakes-even-better/ 
