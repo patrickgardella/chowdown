@@ -24,7 +24,7 @@ ingredients:
 SAUCE INGREDIENTS:
 - 1/3 cup packed brown sugar
 - 1/4 cup fish sauce
-- 1/4 cup tamarind concentrate
+- 1/4 cup tamarind concentrate (aka tamarind paste)
 - 2 tablespoons soy sauce
 - juice of 1 fresh lime
 - 1/4 teaspoon crushed red pepper flakes (or more/less to taste)
@@ -54,3 +54,4 @@ So if you can’t track down tamarind concentrate, you can try subbing in 3 tabl
 
 [Red Boat Fish Sauce](https://amzn.to/2DmyyqZ)
 [Three Crabs](https://amzn.to/2T1uDp2)
+[Tamicon Tamarind Paste](https://www.amazon.com/Tamicon-Tamarind-Paste-Grams-Ounces/dp/B00I9P242U/)
