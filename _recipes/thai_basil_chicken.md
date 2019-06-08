@@ -28,6 +28,7 @@ directions:
 - Pour in the rest of the sauce. Cook and stir until sauce has deglazed the bottom of the pan. Continue to cook until sauce glazes onto the meat, 1 or 2 more minutes. Remove from heat.
 - Stir in basil. Cook and stir until basil is wilted, about 20 seconds. Serve with rice.
 ---
+
 Recipe by: Chef John "My version of this classic Thai dish has spectacular taste even with regular basil instead of Thai or holy basil. The sauce actually acts like a glaze as the chicken mixture cooks over high heat. The recipe works best if you chop or grind your own chicken and have all ingredients prepped before you start cooking."
 
 Chef's Note:
