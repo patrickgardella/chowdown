@@ -1,14 +1,16 @@
 ---
 
+layout: recipe
 title: Spicy Thai Basil Chicken (Pad Krapow Gai)
 image: thaibasilchicken.jpg 
 imagecredit: https://www.allrecipes.com/cook/foodwisheswithchefjohn/
 tags: thai, chicken, entree
 date: 2019-02-17
 prep_time: 15 min
-cook_time:  10 min
+cook_time: 10 min
 
 ingredients:
+
 - 1/3 cup chicken broth
 - 1 tablespoon oyster sauce
 - 1 tablespoon soy sauce, or as needed
