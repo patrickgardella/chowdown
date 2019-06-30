@@ -2,21 +2,19 @@
 
 layout: recipe
 title: Crispy Hash Browns
-image:
-imagecredit:
 prep_time: 15 min
 cook_time: 15 min
 total_time: 30 min
-tags: NotTried, Breakfast
-yield: 4
+tags: Breakfast
+yield: 4 servings
 date: 04/07/2019
 
 ingredients:
 - 1 pound Russet potatoes (2 small-to-medium), peeled if desired
-- ½ teaspoon salt
-- ¼ teaspoon garlic powder
-- ¼ teaspoon onion powder
-- ¼ cup extra-virgin olive oil
+- 1/2 teaspoon salt
+- 1/4 teaspoon garlic powder
+- 1/4 teaspoon onion powder
+- 1/4 cup extra-virgin olive oil
 
 directions:
 - Scrub the potatoes clean and grate them on a large-holed cheese grater (I left the skin on, but you can peel it first if you’d like). In a fine-mesh sieve, rinse the grated potato well until the water runs clear.

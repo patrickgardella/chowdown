@@ -6,8 +6,8 @@ prep_time: 10 mins
 cook_time: 30 mins
 image: Arrabbiata-Sauce-Recipe-1.jpg
 imagecredit: https://www.gimmesomeoven.com/spicy-arrabbiata-sauce/
-tags: sauce, Italian, NotTried
-date: 2019-02-17
+tags: Sauce, Italian
+date: February 17 2019
 
 ingredients:
 - 3 tablespoons butter or extra virgin olive oil
