@@ -7,7 +7,7 @@ imagecredit: https://www.seriouseats.com/recipes/2011/08/grilled-naan-recipe.htm
 prep_time: 1 hrs
 cook_time: 5 min
 total_time: 6 hrs
-tags: Indian, NotTried
+tags: Indian, Keeper, Bread
 yield: 12 pita
 date: June 28 2019
 
@@ -29,3 +29,5 @@ directions:
 ---
 
 Note: The naan can also be cooked in a grill pan over high heat. Milk can be used in place of the yogurt.
+
+These cook very quickly, so don't leave them alone

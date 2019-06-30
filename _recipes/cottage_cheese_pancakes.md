@@ -10,7 +10,7 @@ source: https://smittenkitchen.com/2008/11/cottage-cheese-pancakes/
 
 ingredients:
 - 2/3 cups all-purpose flour 3.34 oz
-- 1/6 cup sugar 1.17 oz
+- 1/6 cup sugar 1.17 oz (2 T + 2 tsp)
 - 1 teaspoons baking powder
 - 1/4 teaspoon baking soda
 - 1/4 teaspoon ground cinnamon or pinch of ground nutmeg (optional)
@@ -33,3 +33,5 @@ directions:
 Cut in half from original recipe
 
 Adapted from [The Joy of Cooking](http://www.amazon.com/gp/product/0026045702?ie=UTF8&tag=smitten-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=0026045702)
+
+Add a little lemon zest when using fruit toppings.
