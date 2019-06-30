@@ -4,12 +4,12 @@ layout: recipe
 title: Mongolian Beef Noodle Bowls
 date: Jul 13 2016 12:05:48
 tags: NotTried, Beef, Entree
-recipeYield: 4
+recipeYield: 4 servings
 image: Mongolian-Beef-Noodle-Bowls-iowagirleats-05.jpg
 imageCredit: https://iowagirleats.com/author/admin/
 
 ingredients:
-- 8oz free rice noodles
+- 8oz rice noodles
 - 1/2 cup soy sauce
 - 1/3 cup brown sugar
 - 1/4 cup water

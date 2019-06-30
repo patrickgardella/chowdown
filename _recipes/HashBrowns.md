@@ -7,7 +7,7 @@ cook_time: 15 min
 total_time: 30 min
 tags: Breakfast
 yield: 4 servings
-date: 04/07/2019
+date: April 7 2019
 
 ingredients:
 - 1 pound Russet potatoes (2 small-to-medium), peeled if desired
