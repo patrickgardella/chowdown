@@ -35,7 +35,7 @@ layout: default
     <div class="sm-col sm-col-6 lg-col-6">
       <!-- check if it's a component-based recipe -->
       {% if page.components %}
-      <h4 class="blue mt0 mb2 xs-center">Components</h4>
+      <h4 class="blue mt0 mb2 xs-center">Components (see below)</h4>
       <ul>
         <!-- list components that make up recipe -->
         {% for component in page.components %}
@@ -69,10 +69,6 @@ layout: default
 
 <!-- check if it's a component-based recipe, render it -->
   {% if page.components %}
-  
-  <div class="components bg-darken-2 p2 mt3 mb3 center">
-    &darr; This is a <strong class="blue">component-based recipe</strong> (fancy talk for making the dish in pieces, then assembling). &darr;
-  </div>
   
   <div class="clearfix mxn2">
   {% for component in page.components %}
