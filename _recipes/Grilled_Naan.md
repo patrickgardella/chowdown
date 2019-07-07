@@ -27,6 +27,7 @@ directions:
 - Working with two to three balls of dough at a time, stretch with your hands into an oblong roughly 10-inches long and 6-inches across (you can use a rolling pin for this as well). Once you have two or three pieces stretched, lay them out on the grill above the coals. Cook without moving until bottom side is charred in spots and light golden brown. Flip with a large spatula, pizza pell, or with tongs and cook until second side is charred and browned. Remove naan from the grill and immediately brush with melted butter. Transfer the naan to a large plate and cover it with a clean dish towel while you cook the remaining bread.
 
 ---
+J. Kenji Alt
 
 Note: The naan can also be cooked in a grill pan over high heat. Milk can be used in place of the yogurt.
 

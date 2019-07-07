@@ -7,9 +7,9 @@ imagecredit: What's Gaby Cooking
 prep_time:
 cook_time:
 total_time:
-tags: Thai, NotTried, Cooking
-yield: 4
-date: 2019-04-21
+tags: Thai, NotTried, Chicken
+yield: 4 servings
+date: April 21 2019
 
 ingredients:
 

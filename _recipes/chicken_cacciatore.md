@@ -32,12 +32,11 @@ ingredients:
 
 directions:
 - Heat oil in a large skillet over medium-high heat. Add bell peppers, onion, mushrooms and ¼ teaspoon salt; cook, stirring often, until beginning to brown, about 8 minutes. Add flour, tomato paste, garlic, oregano and crushed red pepper; cook, stirring constantly, until fragrant, about 1 minute. Stir in wine; cook, stirring and scraping up any browned bits, for 30 seconds. 
-- Transfer the mixture to a 6-quart slow cooker. Stir in chicken, tomatoes, broth and capers. Cover and cook on Low for 8 hours. 
+- Transfer the mixture to a 6-quart slow cooker. Stir in chicken, tomatoes, broth and capers. Cover and cook on Low for 8 hours.
 - Transfer the chicken to a clean cutting board; let cool for 5 minutes. Remove bones and return the meat to the slow cooker. Stir in olives and the remaining ¼ teaspoon salt. Cover to keep warm. 
 - Meanwhile, bring water to a boil in a medium saucepan over medium-high heat. Whisk in polenta; cook, stirring often, until thickened, about 3 minutes. Remove from heat and stir in Parmesan. Serve the chicken and sauce over the polenta, topped with basil.
 
 --- 
-
 This rustic stew cooks all day in the slow cooker so you can come home to a comforting, hot dinner. Not a fan of polenta? Try this healthy chicken dinner over pasta instead.
 
 Equipment: 6-qt. slow cooker
