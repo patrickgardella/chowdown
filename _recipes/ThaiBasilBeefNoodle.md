@@ -7,25 +7,28 @@ imagecredit: https://www.gimmesomeoven.com/thai-basil-beef-noodle-stir-fry/
 prep_time: 10 min
 cook_time: 15 min
 total_time: 25 min
-tags: Thai, Entree, Beef, NotTried
+tags: Thai, Entree, Beef, Keeper
 yield: 4 servings
 date: July 11 2019
 
 ingredients:
-- 3 tablespooons low-sodium soy sauce
+- 3 tablespoons low-sodium soy sauce
 - 2 tablespoons oyster sauce
 - 2 tablespoons fish sauce
 - 1 tablespoon sweet dark soy sauce
-- 1 tablespoon chile garlic sauce, or more/less to taste
+- 1 tablespoon sambal oelek (chile garlic) sauce
 - 8 ounces (uncooked) rice noodles
 - 2 tablespoons oil, divided
-- 1 ¼ pounds sirloin or flank steak, cut into bite-sized pieces
+- 1 ¼ pounds sirloin steak, cut into bite-sized pieces
 - fine sea salt and freshly-cracked black pepper
-- 1 small white onion, peeled and thinly sliced
-- 8 ounces shiitake or baby bella mushrooms, sliced
-- 1 red bell pepper, cored and thinly sliced
+- 1 small yellow onion, peeled and thinly sliced
+- 8 ounces mushrooms, sliced
+- 1 zuchini cut into 2" sticks
+- 1 yellow squash cut into 2" sticks
 - 4 cloves garlic, peeled and minced
 - 1 ½ cups packed fresh Thai basil leaves
+- 2 thai bird chilis
+- 2 tbsp chopped peanuts
 - optional toppings: sliced green onions, toasted sesame seeds, chopped peanuts, fried garlic and/or fresh lime wedges
 
 directions:
