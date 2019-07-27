@@ -12,7 +12,15 @@ yield: 6 servings
 date: September 14 2017
 
 ingredients:
-- 1 green chilli
+- 900 gms – 1 ½ lbs lamb mince
+- ½ tbsp ginger paste
+- ½ tbsp garlic paste
+- 1 egg
+- 4 tbsp breadcrumbs
+- 2 tbsp coriander chopped
+- Salt to taste
+- 1 onion blended
+- 1 green chili
 - ¾ tbsp garlic paste
 - ¾ tbsp ginger paste
 - 400 gms – 1 ½ cups tomato puree
@@ -22,7 +30,7 @@ ingredients:
 - ½ tbsp garam masala
 - 1 ½ tbsp coriander powder
 - 1 ½ tbsp kasuri methi
-- 75 gms – ¾ cup cashew nuts, turned into a paste
+- 75 gms (2.65oz) – ¾ cup cashew nuts, turned into a paste
 - 240 ml – 1 cup heavy cream
 - 100 ml water
 - 1 ½ tbsp vegetable oil
