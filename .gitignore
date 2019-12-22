@@ -1,4 +1,5 @@
 notes.md
+.jekyll-cache
 .swo
 .swp
 /.c9
@@ -6,3 +7,4 @@ _site/
 _drafts/
 settings.json
 .DS_Store
+.code-workspace
