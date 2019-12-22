@@ -11,8 +11,8 @@ imageCredit: https://prettysimplesweet.com/sample-page/
 
 ingredients:
 - 1/2 c butter
-- 1/2 c shortening
-- 1 c sugar
+- 1/2 c shortening 3.45 oz
+- 1 c sugar - 7 oz
 - 1 egg
 - 1 tsp vanilla
 - 2 c plus 1 T flour (sifted) 10.3 oz
