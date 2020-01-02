@@ -23,14 +23,14 @@ ingredients:
 - 1/4 tsp paprika
 - salt and pepper, to taste
 - 2 cups whole milk
-- 1 cup cheddar cheese shredded
-- 1/2 cup gruyere cheese shredded
-- 1/4 cup Parmesan cheese grated
+- 1 cup cheddar cheese shredded - 4 oz
+- 1/2 cup gruyere cheese shredded - 2 oz
+- 1/4 cup Parmesan cheese grated - 1 oz
 - fresh chives, for garnish
 - fresh parsley, for garnish
-- additional 1/4 cup cheddar cheese, shredded
-- additional 1/4 cup gruyere cheese, shredded
-- additional 2 Tbsp Parmesan cheese, grated
+- additional 1/4 cup cheddar cheese, shredded - 1 oz
+- additional 1/4 cup gruyere cheese, shredded - 1 oz
+- additional 2 Tbsp Parmesan cheese, grated - 0.5 oz
 
 directions:
 - Preheat oven to 400 degrees F.  Butter a 2 quart casserole dish and set aside.  
