@@ -4,9 +4,12 @@ layout: recipe
 title: Creamy Cajun Chicken Or Shrimp Pasta
 date: Feb 09 2013 16:13:03
 tags: Entree, Chicken, Keeper, Seafood
-source: <http://www.food.com/recipe/creamy-cajun-chicken-pasta-39087>
+prep_time: 10 min
+cook_time: 15 min
+total_time: 25 min
 image: CreamyCajunChicken.jpg
-imageCredit: https://www.geniuskitchen.com/user/2001112113
+image_credit: https://www.geniuskitchen.com/user/2001112113
+source: http://www.food.com/recipe/creamy-cajun-chicken-pasta-39087
 
 ingredients:
 - 2 boneless skinless chicken breasts, cut into thin strips or 1 lb shrimp
@@ -31,9 +34,7 @@ componenents:
 
 ---
 
-prepTime: 10 mins
-totalTime: 25 mins
-Cajun Seasoning
+title: Cajun Seasoning
 
 - 3/4 teaspoon garlic powder
 - 3/4 teaspoon onion powder
