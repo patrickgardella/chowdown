@@ -7,7 +7,7 @@ image_credit:
 prep_time: 10 min
 cook_time: 25 min
 total_time: 9 hrs
-yield:
+yield: 12 rolls
 source:
 tags: Bread
 
