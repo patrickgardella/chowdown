@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: A Very Popular BBQ Sauce
 date: Jul 04 2016 23:36:23
 image:

@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Asian Inspired Shredded Beef and Rice
 date: Feb 08 2015 23:42:38
 image:

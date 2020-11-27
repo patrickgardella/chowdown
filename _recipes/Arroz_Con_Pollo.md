@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Arroz Con Pollo
 date: Apr 17 2015 01:34:20
 image:

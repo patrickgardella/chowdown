@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: 20 Minute Chicken Satay Lettuce Wraps
 date: Oct 05 2015 13:04:04
 image:

@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Amaretto Cupcakes
 date: Apr 30 2017 00:57:37
 image:

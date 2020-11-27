@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Argentinian Skirt Steaks with Chimichurri
 date: Mar 21 2014 19:42:52
 image:

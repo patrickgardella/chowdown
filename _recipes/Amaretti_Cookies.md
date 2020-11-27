@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Amaretti Cookies
 date: Mar 08 2013 00:39:40
 image:

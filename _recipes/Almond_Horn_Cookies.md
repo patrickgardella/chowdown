@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Almond Horn Cookies
 date: Apr 30 2017 00:27:15
 image:

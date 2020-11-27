@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Zinger Tea
 date: Jun 15 2013 17:32:51
 image:

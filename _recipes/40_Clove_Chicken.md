@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: 40 Clove Chicken
 date: Oct 08 2016 15:55:44
 image:

@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: 30-Minute Dinner Rolls
 date: Dec 15 2018 20:14:36
 image:

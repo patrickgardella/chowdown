@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Asian Lettuce Wraps
 date: Jan 21 2013 13:06:40
 image:

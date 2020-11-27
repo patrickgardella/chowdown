@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Zeppole de San Guiseppe
 date: Apr 30 2017 00:51:45
 image:

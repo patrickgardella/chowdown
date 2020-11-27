@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Alton Brown's Cocoa Brownies 2.0
 date: Jun 23 2015 22:51:11
 image:

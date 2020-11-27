@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Amaretto
 date: Feb 03 2013 00:03:22
 image:

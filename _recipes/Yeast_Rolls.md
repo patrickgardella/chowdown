@@ -1,26 +1,27 @@
 ---
 
+layout: recipe
 title: Yeast Rolls
 date: Apr 17 2015 01:39:21
-image:
-image_credit:
+image: empty.png
+image_credit: https://www.google.com
 prep_time: 10 min
 cook_time: 25 min
 total_time: 9 hrs
 yield: 12 rolls
-source:
+source: https://www.google.com
 tags: Bread
 
 ingredients:
 - 2 packages yeast
 - 2⁄3 cup warm water
-- ¼ cup soft butter
+- 1/4 cup soft butter
 - 1 cup warm milk
-- 1½ teaspoons salt
-- ½ cup sugar
+- 1 1/2 teaspoons salt
+- 1/2 cup sugar
 - 2 eggs, beaten
 - 5-6 cups flour
-- Approximately 1½ sticks melted butter for dipping
+- Approximately 1 1/2 sticks melted butter for dipping
 
 directions:
 - Combine yeast and warm water in a large bowl.

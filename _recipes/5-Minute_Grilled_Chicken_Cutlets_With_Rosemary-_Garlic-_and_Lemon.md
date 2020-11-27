@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: 5-Minute Grilled Chicken Cutlets With Rosemary, Garlic, and Lemon
 date: Sep 15 2015 20:12:34
 image:

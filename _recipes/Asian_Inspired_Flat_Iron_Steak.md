@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Asian Inspired Flat Iron Steak
 date: Feb 21 2015 21:04:00
 image:

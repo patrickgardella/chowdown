@@ -1,5 +1,6 @@
 ---
-  
+
+layout: recipe
 title: Carne Asada
 date: May 15 2020
 image:

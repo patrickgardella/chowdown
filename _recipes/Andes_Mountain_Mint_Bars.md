@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Andes Mountain Mint Bars
 date: Oct 16 2013 13:50:09
 image:

@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Angel Biscuits
 date: Nov 12 2017 12:35:19
 image:

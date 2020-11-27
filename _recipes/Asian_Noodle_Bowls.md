@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Asian Noodle Bowls
 date: Jul 20 2015 12:46:02
 image:

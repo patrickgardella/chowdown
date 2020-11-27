@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Amish Macaroni Salad
 date: Dec 17 2015 21:13:17
 image:

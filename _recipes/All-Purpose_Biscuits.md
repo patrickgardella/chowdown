@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: All-Purpose Biscuits
 date: Nov 09 2017 22:33:30
 image:

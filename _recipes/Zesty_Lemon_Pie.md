@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Zesty Lemon Pie
 date: Jan 14 2013 14:30:47
 image:

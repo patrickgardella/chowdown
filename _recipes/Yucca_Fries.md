@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Yucca Fries
 date: Feb 27 2017 13:13:11
 image:

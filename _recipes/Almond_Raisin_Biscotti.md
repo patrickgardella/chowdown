@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Almond Raisin Biscotti
 date: Feb 20 2015 17:48:55
 image:

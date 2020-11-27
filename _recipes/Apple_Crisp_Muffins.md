@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Apple Crisp Muffins
 date: Sep 26 2014 15:34:26
 image:

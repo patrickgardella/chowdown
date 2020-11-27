@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Apple Crisp II
 date: Jun 25 2017 23:20:29
 image:

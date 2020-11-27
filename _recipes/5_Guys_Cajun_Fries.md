@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: 5 Guys Cajun Fries
 date: Jun 22 2016 20:07:45
 image:

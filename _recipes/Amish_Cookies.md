@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Amish Cookies
 date: Dec 21 2013 11:21:07
 image:

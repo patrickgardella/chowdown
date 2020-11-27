@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Homemade Harissa
 prep_time: 30 min
 date: 2019-02-19

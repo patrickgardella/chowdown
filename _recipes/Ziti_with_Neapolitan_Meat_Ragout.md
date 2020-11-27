@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Ziti with Neapolitan Meat Ragout
 date: Jan 15 2018 13:02:39
 image:

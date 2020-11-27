@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Almond Joy Oatmeal Cookies
 date: Feb 29 2016 
 image:

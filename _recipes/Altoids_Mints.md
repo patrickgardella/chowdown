@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Altoids Mints
 date: Jan 14 2013 14:46:42
 image:

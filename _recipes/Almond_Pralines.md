@@ -1,5 +1,6 @@
 ---
 
+layout: recipe
 title: Almond Pralines
 date: May 11 2018 11:33:04
 image:

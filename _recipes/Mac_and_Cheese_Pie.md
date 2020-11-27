@@ -1,5 +1,6 @@
 ---
-  
+
+layout: recipe
 title: Mac and Cheese Pie
 date: Jun 15 1989
 image:
