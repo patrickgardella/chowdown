@@ -1,0 +1,41 @@
+---
+
+layout: recipe
+title: Shepherd's Pie
+date: July 26, 2021
+image:
+image_credit:
+prep_time: 20 minutes
+cook_time: 30 minutes
+total_time: 50 minutes
+yield: 6 servings
+source:
+tags: Beef, Entree
+
+ingredients:
+
+- 1 1 1/2 lb ground beef
+- 1/2 t garlic powder
+- 1/2 t onion powder
+- 1 t salt
+- 1/4 t pepper
+- 1 T flour
+- 1 T worcestershire sauce
+- 2 T ketchup
+- 2 cans corn drained
+- 1 bag prepared instant mashed potatoes
+- 3/4 c shredded cheese
+
+directions:
+- preheat oven to 350
+- brown ground beef over medium heat
+- add seasonings and sauces to ground beef
+- put meat  mixture into casserole dish
+- cover meat with drained corn
+- mix cheese into mashed potatoes
+- cover corn with mashed potatoes
+- sprinkle more cheese onto mashed potatoes
+- cook in preheated oven for 30 minutes
+
+---
+General stuff about the recipe.
