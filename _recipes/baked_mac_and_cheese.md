@@ -34,4 +34,3 @@ directions:
 - stir pasta into the sauce and bake in a greased 8x8 pan for 20-25 minutes until browned and bubbly
 
 ---
-General stuff about the recipe.

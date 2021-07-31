@@ -31,4 +31,3 @@ directions:
 - bake for 1 hour or until chicken reaches 165
 
 ---
-General stuff about the recipe.

@@ -50,4 +50,3 @@ directions:
 - bake for 10-12 minutes, or until tops begin to brown
 
 ---
-General stuff about the recipe.

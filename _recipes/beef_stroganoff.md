@@ -33,4 +33,3 @@ directions:
 - add crushed red pepper and sour cream, add salt and pepper to taste, cook for 5 minutes
 
 ---
-General stuff about the recipe.

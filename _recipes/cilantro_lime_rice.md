@@ -5,15 +5,14 @@ title: Cilantro-Lime Rice
 date: July 26, 2021
 image:
 image_credit:
-prep_time: 
-cook_time: 
-total_time: 
+prep_time: 5m
+cook_time: 45m
+total_time: 50m
 yield: 3 servings
 source:
 tags: Side
 
 ingredients:
-
 - 3 c water
 - 2 c rice
 - 3 T butter
@@ -26,4 +25,3 @@ directions:
 - when rice is done, stir in lime juice and cilantro
 
 ---
-General stuff about the recipe.

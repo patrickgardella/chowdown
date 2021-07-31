@@ -10,7 +10,7 @@ cook_time:
 total_time:
 yield:
 source:
-tags:
+tags: Beef, NotTried
 
 ingredients:
 - 4 garlic cloves, coarsely chopped

@@ -38,4 +38,3 @@ directions:
 - cook in preheated oven for 30 minutes
 
 ---
-General stuff about the recipe.
