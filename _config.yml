@@ -1,10 +1,10 @@
 # Site settings
 title: Chowdown
-email: your-email@domain.com
+email: patrick@freebsd.org
 description: The plain text recipe database for hackers
 baseurl: ""
-twitter_username: clarklab
-github_username:  clarklab
+twitter_username: patrickgardella
+github_username:  patrickgardella
 
 # Build settings
 markdown: kramdown
