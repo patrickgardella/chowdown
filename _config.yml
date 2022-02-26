@@ -4,7 +4,7 @@ email: patrick@freebsd.org
 description: The plain text recipe database for hackers
 domain: patrickgardella.github.io
 url: https://patrickgardella.github.io
-baseurl: /chowdown/
+baseurl: 
 twitter_username: patrickgardella
 github_username:  patrickgardella
 
