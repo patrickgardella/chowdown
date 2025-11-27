@@ -11,7 +11,7 @@ image: makeaheadturkeygravy.jpg
 imageCredit: https://www.allrecipes.com/cook/1093463/
 
 ingredients:
-- 6 turkey wings
+- 6 turkey wings (or a small turkey if it is cheaper)
 - 2 medium onions, peeled and quartered
 - 4 cloves garlic, smashed
 - 4 ribs of celery, roughly chopped (use leaves too)
@@ -22,11 +22,11 @@ ingredients:
 - 3/4 cup all-purpose flour
 - 2 tablespoons butter
 - 1/4 teaspoon ground black pepper
-- 1/2 - 1 teaspoon apple cider vinegar
-- 2 tablespoon milk/cream/evaporated milk
+- 1/2 - 1 teaspoon apple cider vinegar (optional)
+- 2 tablespoon milk/cream/evaporated milk (optional)
 
 directions:
-- Preheat oven to 400 degrees F (200 degrees C). Arrange a single layer of turkey wings in a dutch oven. Scatter the onions, celery and carrots over the top of the wings. Roast in the preheated oven for 1-1/4 hours or until wings are browned.
+- Preheat oven to 400 degrees F (200 degrees C). Arrange a single layer of turkey wings in a dutch oven or 9x13 cassarole dish. Scatter the onions, celery and carrots around & on top of the wings. Roast in the preheated oven for 1-1/4 hours or until wings are browned. You can also put the vegetables on top, and then switch halfway.
 - Add water to dutch oven and stir, scraping up any brown bits on the bottom of the pan. Pour the the water from the pan into the stockpot. Stir in 6 cups broth and thyme. Bring to a boil. Reduce heat to medium-low and simmer uncovered for 1-1/2 hours.
 - Remove wings from the pot and place on a cutting board. When the wings are cool, pull off the skin and meat. Discard the skin and save the meat for another use. Strain contents of stockpot through a large strainer into a 3 quart saucepan. Press on the vegetables to extract any remaining liquid. Discard the vegetables and skim the fat off the liquid. Bring the contents of the pot to a gentle boil.
 - Make a roux with butter and flour.
