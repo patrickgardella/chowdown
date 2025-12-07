@@ -38,7 +38,7 @@ ingredients:
  - 1/2 cup uncooked small pasta (optional)
  - Parmesan rind (optional)
 
-instructions:
+directions:
 - Heat the vegetable oil in a large skillet oven over medium-high heat. Season the chuck roast with salt and pepper, then sear it on all sides until browned, about 4-5 minutes per side. Remove the roast and set aside.
 - Cut into 0.5 to 2 inch cubes, discarding any excess fat.
 - Place beef cubes into a large stock pot.
