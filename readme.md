@@ -20,6 +20,15 @@ Clone or download this repo. Navigate to the folder in terminal (or iTerm, etc),
 
 With default settings, you should be able to view the site locally at `http://127.0.0.1:4000/`
 
+## Docker Instructions
+
+You can also execute this from Docker, using either:
+`docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:$JEKYLL_VERSION jekyll build`
+or
+`docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve`
+
+With default settings, you should be able to view the site locally at `http://127.0.0.1:4000/`
+
 # Writing a Recipe
 
 The recipes are stored in the collection "Recipes" (the folder /_recipes).
