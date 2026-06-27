@@ -10,6 +10,8 @@ github_username:  patrickgardella
 
 # Build settings
 markdown: kramdown
+kramdown:
+  input: GFM
 
 permalink: /:title:output_ext
 
@@ -21,4 +23,3 @@ collections:
 
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'README.md']
 
-theme: jekyll-theme-minimal
