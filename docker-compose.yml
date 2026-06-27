@@ -1,0 +1,14 @@
+services:
+  jekyll:
+    image: ruby:3.2-alpine
+    command: >
+      sh -c "apk add --no-cache build-base libffi-dev &&
+             gem install bundler --no-document &&
+             bundle install &&
+             bundle exec jekyll serve --host 0.0.0.0 --livereload"
+    ports:
+      - "4000:4000"
+      - "35729:35729"
+    volumes:
+      - .:/site
+    working_dir: /site
