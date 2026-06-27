@@ -1,57 +1,66 @@
 # Chowdown
 
-A simple, plaintext recipe database for hackers
+A simple, plaintext recipe database for hackers.
 
-[http://chowdown.io](http://chowdown.io)
+## Local Development
 
-# Getting Started
+This site runs on Jekyll 4.4.1. Ruby is **not** required locally — use Docker.
 
-This is a Jekyll build. Make sure you have Jekyll [installed](https://jekyllrb.com/). To install, run this command in the terminal (or iTerm, etc):
+```
+docker compose up
+```
 
-```gem install bundler jekyll```
+The site will be available at `http://localhost:4000`. The browser reloads automatically when you save a file (livereload on port 35729).
 
-or to check if you've got it installed already:
+To stop: `Ctrl-C`, then `docker compose down`.
 
-```jekyll -v```
+## Deployment
 
-Clone or download this repo. Navigate to the folder in terminal (or iTerm, etc), and then run:
+The site deploys automatically to GitHub Pages via GitHub Actions whenever you push to `master`. No manual build step needed.
 
-```jekyll serve```
+> **Note:** GitHub Pages must be configured to use **GitHub Actions** as the source, not "Deploy from a branch". This is set under Settings → Pages → Source in the repo.
 
-With default settings, you should be able to view the site locally at `http://127.0.0.1:4000/`
+## Adding a Recipe
 
-## Docker Instructions
+Recipes live in `/_recipes` as Markdown files with YAML front matter.
 
-You can also execute this from Docker, using either:
-`docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:$JEKYLL_VERSION jekyll build`
-or
-`docker run --rm --volume="$PWD:/srv/jekyll" -it jekyll/jekyll:$JEKYLL_VERSION jekyll serve`
+```yaml
+---
+layout: recipe
+title: My Recipe
+source: https://example.com/original-recipe   # optional
+ingredients:
+  - 1 cup flour
+  - 2 eggs
+directions:
+  - Mix the flour and eggs.
+  - Cook for 20 minutes.
+tags: Baking
+---
 
-With default settings, you should be able to view the site locally at `http://127.0.0.1:4000/`
+Optional intro text goes here in the body.
+```
 
-# Writing a Recipe
+If `source` is set, a linked "Adapted from:" attribution appears at the bottom of the page and in the print footer.
 
-The recipes are stored in the collection "Recipes" (the folder /_recipes).
+## Adding a Component Recipe
 
-They are written in Markdown and contain a few special sections:
+A component recipe is built from smaller sub-recipes stored in `/_components`. To create one:
 
-- The frontmatter, which contains:
- - Title, Image, and Layout (which is "recipe")
- - Ingredients (a list of things in the dish)
- - Directions (a list of steps for the dish)
-- Body content (for intros, stories, written detail)
+1. Add each sub-recipe as its own file in `/_components`
+2. Create a new recipe in `/_recipes` with a `components` list in the front matter instead of `ingredients`
 
-If you need help with Markdown, here's a [handy cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+See `/_recipes/red-berry-tart.md` for an example.
 
-# Writing a component recipe
+## Dependency Updates
 
-A component recipe is a special recipe made up of other recipes. To make a new component recipe:
+Gems are managed via Bundler. To update dependencies, run through Docker:
 
-- place your smaller, single recipes into the /_components folder
-- make a new recipe like normal in the /_recipes folders
-- in the frontmatter of this new recipe, include your recipes from the /_components folder (instead of the usual Ingredeints list)
+```
+docker run --rm -v "$PWD:/site" -w /site ruby:3.2-alpine \
+  sh -c "apk add --no-cache build-base libffi-dev > /dev/null && \
+         gem install bundler --no-document > /dev/null && \
+         bundle update"
+```
 
-You can an example on the Red Berry Tart recipe. 
-
-- [example Markdown](https://raw.githubusercontent.com/clarklab/chowdown/gh-pages/_recipes/red-berry-tart.md)
-- [example recipe page](http://chowdown.io/recipes/red-berry-tart.html)
+Commit the updated `Gemfile.lock` afterward.
