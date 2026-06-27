@@ -3,11 +3,9 @@ layout: recipe
 title: Lemon Pistachio Olive Oil Cake
 image: lemon-pistachio-olive-oil-cake.jpg
 tags:
-  - cake
-  - dessert
-  - olive oil
-  - lemon
-  - pistachio
+  - Cake
+  - Dessert
+  - Italian
 
 prep_time: 1 hour 30 min
 cook_time: 45 min

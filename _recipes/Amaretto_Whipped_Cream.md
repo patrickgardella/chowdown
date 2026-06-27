@@ -1,7 +1,6 @@
 ---
-
 layout: recipe
-title: Amaretto Cupcakes
+title: Amaretto Whipped Cream
 date: Apr 30 2017 00:57:37
 image:
 image_credit:
@@ -12,15 +11,13 @@ yield: enough for 12 cupcakes
 source:
 tags: Dessert, NotTried, Italian
 
-ingredients: 
-- 1 cup heavy cream
-- 1 tablespoon granulated sugar
-- 2 tablespoons Amaretto liqueur
-- Sliced almonds (garnish)
+ingredients:
+  - 1 cup heavy cream
+  - 1 tablespoon granulated sugar
+  - 2 tablespoons Amaretto liqueur
+  - Sliced almonds (garnish)
 
 directions:
-- Beat together the cream, sugar, and Amaretto  until stiff peaks form.
-- Pipe or spread on cooled cupcakes. Top the icing with sliced almonds.
-
+  - Beat together the cream, sugar, and Amaretto  until stiff peaks form.
+  - Pipe or spread on cooled cupcakes. Top the icing with sliced almonds.
 ---
-
