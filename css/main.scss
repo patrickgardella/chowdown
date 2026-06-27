@@ -48,8 +48,13 @@ a:hover .image{opacity:0.2;}
 .recipes .sm-col{border-bottom:3px solid white}
 }
 
+.footer-source { font-size: 0.75rem; }
+.print-source { display: none; }
+
 @media print {
   .site-title { display: none; }
+  .footer { display: none; }
   .post-title { margin-top: 0.25rem; margin-bottom: 0.25rem; }
   .post-content .mt3 { margin-top: 0.75rem; }
+  .print-source { display: block; font-size: 0.65rem; color: #666; margin-top: 1.5rem; }
 }

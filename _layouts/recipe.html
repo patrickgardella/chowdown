@@ -117,6 +117,10 @@ layout: default
     <p class="clearfix">Category: <span itemprop="recipeCategory">{{ category }}</span></p>
   {% endfor %}
 
+  {% if page.source and page.source != "" %}
+  <p class="print-source">Adapted from: {{ page.source }}</p>
+  {% endif %}
+
   </article>
 
 </div>
