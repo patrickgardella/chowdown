@@ -50,4 +50,6 @@ a:hover .image{opacity:0.2;}
 
 @media print {
   .site-title { display: none; }
+  .post-title { margin-top: 0.25rem; margin-bottom: 0.25rem; }
+  .post-content .mt3 { margin-top: 0.75rem; }
 }
