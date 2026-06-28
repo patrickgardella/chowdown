@@ -16,6 +16,7 @@ tags:
   - Weeknight
 yield: 6 pieces
 date: September 29 2019
+dairy: easy
 
 ingredients:
 - 1 3/4 cups (230 grams) all-purpose flour, plus more for counter

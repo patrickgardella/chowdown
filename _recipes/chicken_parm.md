@@ -31,6 +31,7 @@ directions:
 - Heat oil 1/4" deep in electric skillet
 - Coat seasoned chicken in flour, eggs, and breadcrumb mix.  Cook for aobut 3 minutes per side. Keep in 275F oven for up to 20 min.
 - In meantime, make a sauce
+dairy: hard
 
 ---
 

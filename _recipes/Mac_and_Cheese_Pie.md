@@ -59,6 +59,6 @@ directions:
 - Bake in 400F oven for 30 minutes or until crust is brown.
 - Add tomato and/or parmesan cheese and bake 5 more minutes.
 - Let stand 10 minutes before serving.
-
+dairy: hard
 ---
 This delicious dish can be made with a variety of cheese, rather than just cheddar. Monterey Jack, Colby, or CoJack are all good choices.

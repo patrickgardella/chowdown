@@ -43,7 +43,7 @@ layout: default
         <h4 class="blue mt3 mb1">{{ subtype }}</h4>
         <ul class="tag-recipe-list">
           {% for recipe in subtype_recipes %}
-          <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
+          <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a>{% if recipe.dairy == "hard" %}<span class="dairy-badge dairy-hard">dairy</span>{% elsif recipe.dairy == "easy" %}<span class="dairy-badge dairy-easy">dairy</span>{% endif %}</li>
           {% endfor %}
         </ul>
       {% endif %}
@@ -82,7 +82,7 @@ layout: default
         <h4 class="blue mt3 mb1">{{ course }}</h4>
         <ul class="tag-recipe-list">
           {% for recipe in course_recipes %}
-          <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
+          <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a>{% if recipe.dairy == "hard" %}<span class="dairy-badge dairy-hard">dairy</span>{% elsif recipe.dairy == "easy" %}<span class="dairy-badge dairy-easy">dairy</span>{% endif %}</li>
           {% endfor %}
         </ul>
       {% endif %}

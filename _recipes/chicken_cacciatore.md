@@ -13,6 +13,7 @@ tags:
   - Chicken
   - Slow Cooker
   - Weekend Project
+dairy: hard
 
 ingredients:
 - 2 teaspoons extra-virgin olive oil

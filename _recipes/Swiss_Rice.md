@@ -31,5 +31,5 @@ directions:
 - Stir in remaining ingredients. 
 - Bring to a boil, reduce heat and cover. 
 - Simmer for about 30 min or until rice is done and liquid has been absorbed. 
-
+dairy: easy
 ---

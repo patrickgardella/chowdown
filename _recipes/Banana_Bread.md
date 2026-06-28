@@ -18,6 +18,7 @@ tags:
   - Weeknight
 yield: 12 slices 
 date: September 8, 2019
+dairy: easy
 
 ingredients:
 - 2 to 3 very ripe bananas, peeled (about 1 1/4 to 1 1/2 cups mashed)

@@ -37,7 +37,7 @@ directions:
 - Make a roux with butter and flour.
 - In a medium bowl, whisk roux into the remaining 2 cups chicken broth until smooth. Gradually whisk the flour mixture into the simmering turkey broth; simmer 3-4 minutes or until the gravy has thickened. Stir in the pepper, and optionally, vinegar, milk or both. 
 - Serve immediately or pour into containers and refrigerate or freeze.
-
+dairy: easy
 ---
 
 "I discovered this excellent Thanksgiving gravy recipe years ago! It is gravy that, unlike most, can be made AHEAD of time. The gravy will keep for 3 months when frozen in an airtight container."

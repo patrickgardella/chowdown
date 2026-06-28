@@ -39,5 +39,5 @@ directions:
 - Add remaining ingredients and bring to slow simmer.
 - Simmer for 30-60 minutes (or not at all depending on your taste and time frame).
 - Remove the bay leaf and spread the sauce on your prepared pizza dough.
-
+dairy: hard
 ---

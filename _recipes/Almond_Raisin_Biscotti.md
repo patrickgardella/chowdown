@@ -18,6 +18,7 @@ tags:
   - Vegetarian
   - Baked
   - Weekend Project
+dairy: easy
 
 ingredients:
 - 1 cup sugar

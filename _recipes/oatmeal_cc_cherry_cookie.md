@@ -34,4 +34,5 @@ directions:
 - Preheat oven to 350 degrees. Line 2 baking sheets with parchment paper and set aside.
 - In a large mixer, combine the softened butter and brown sugar with a paddle attachment. Let whisk for 2 minutes. Add the eggs one at a time, followed by the vanilla extract. Add the flour, baking soda, sea salt and baking powder and slowly combine, making sure not to overmix the batter. Add the oats, chocolate chips and cherries and combine. Refrigerate batter for 1 hour.
 - Using a cookie scoop, scoop 12 cookies (2 tablespoons each) onto each parchment lined baking sheet and dust with a few maldon sea salt flakes. Transfer sheets into oven and bake for 10-12 minutes until the cookies just slightly turn a golden brown color on the edges but are still soft and chewy in the middle. Remove from oven, carefully bang the bottom of the pan on a flat surface to make the cookies a bit more dense and release any air bubbles and transfer to cooling rack. Repeat process for remaining dough.
+dairy: easy
 ---

@@ -37,7 +37,7 @@ directions:
 - Add 1 lb diced cooked chicken (canned or homemade)
 - Simmer 1 hour
 - Serve with toppings
-
+dairy: hard
 ---
 
 Suggested toppings:

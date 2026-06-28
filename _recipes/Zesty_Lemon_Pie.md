@@ -34,7 +34,7 @@ directions:
 - Bake at 350° for 15 minutes. Let cool completely on a wire rack (about 1 hour). Cover and chill 4 hours.
 - Beat whipping cream at high speed with an electric mixer until foamy; gradually add powdered sugar, beating until soft peaks are formed; dollop over chilled pie. 
 - Garnish, if desired.
-
+dairy: easy
 ---
 From: Southern Living
 

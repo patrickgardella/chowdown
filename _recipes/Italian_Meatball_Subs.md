@@ -41,5 +41,5 @@ ingredients:
 directions:
 - In a large bowl, combine eggs and milk; add the bread crumbs, cheese, salt, pepper and garlic powder. Add beef and sausage; mix well. Shape into 1-in. balls. Broil 4 in. from the heat for 4 minutes; turn and broil 3 minutes longer.
 - Transfer to a 5-qt. slow cooker. Combine the tomato sauce and paste, onion, green pepper, wine or broth, water and seasonings; pour over meatballs. Cover and cook on low for 4-5 hours. Serve on rolls. Sprinkle with shredded cheese if desired. Yield: 6-7 servings.
-
+dairy: hard
 ---

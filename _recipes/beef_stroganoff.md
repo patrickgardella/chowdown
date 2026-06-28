@@ -36,4 +36,6 @@ directions:
 - add can of chicken mushroom soup, bay leaf, and worcestershire sauce, cook for 10 minutes
 - add crushed red pepper and sour cream, add salt and pepper to taste, cook for 5 minutes
 
+dairy: hard
+
 ---

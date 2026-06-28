@@ -12,6 +12,7 @@ tags:
   - Baked
   - Entertaining
 date: 2019-02-17
+dairy: hard
 
 ingredients:
 - 1 to 4 pounds chicken wings that have been cut into flats and drumettes

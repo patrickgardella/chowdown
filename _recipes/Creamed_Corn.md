@@ -35,5 +35,5 @@ directions:
 - Heat bacon grease in skillet until just barely smoking.
 - Add the corn to the skillet and continue cooking over medium-high heat until the liquid from the corn thickens a bit, about 2 minutes. Sprinkle the cornmeal, sugar, and turmeric onto the corn mixture and stir to combine. Add the cream, reduce the heat to medium and cook until the corn is very soft, 2 to 3 minutes.
 - Fish out the rosemary, season with pepper and serve as a side to just about anything.
-
+dairy: easy
 ---

@@ -24,4 +24,6 @@ ingredients:
 directions:
 - In a medium bowl, whisk together dry ingredients. Stir in liquids, stirring until thoroughly mixed (batter will be thick). Pour 2/3 to 3/4 cup of batter into middle of waffle iron. Close lid and cook 6-7 minutes until golden brown.
 
+dairy: easy
+
 ---

@@ -37,6 +37,7 @@ directions:
   - Add the shrimp in a snug, even layer on top of the orzo, cover, and cook until all the shrimp is pink and cooked through, 2 to 4 minutes.
   - Remove from heat and let sit, covered, 2 minutes.
   - Sprinkle with parsley and lemon juice, season with salt and pepper, and serve immediately.
+dairy: easy
 ---
 
 Good wines: Clos Du Bois Buttery Chardonnay, Pine Ridge Chenin Blanc & Viognier, etc.

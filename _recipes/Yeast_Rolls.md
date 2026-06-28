@@ -37,5 +37,5 @@ directions:
 - Pour some of the melted butter into bottom of a 9x13-inch glass dish. Cut out each roll with a biscuit cutter, dip in butter, and place in dish. (This recipe usually will make enough rolls to fill both a 9x13-inch and an 8x8-inch dish.)
 - Cover rolls with plastic wrap and refrigerate for at least 4 hours. Take out of the refrigerator and let set 15 minutes. Uncover before baking.
 - Bake at 375 degrees for 25 minutes.
-
+dairy: easy
 ---

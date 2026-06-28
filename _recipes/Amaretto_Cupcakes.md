@@ -19,6 +19,7 @@ tags:
   - Vegetarian
   - Baked
   - Weekend Project
+dairy: easy
 
 ingredients: 
 - 1/2 cup unsalted butter, room temperature

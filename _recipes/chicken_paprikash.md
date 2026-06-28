@@ -36,5 +36,6 @@ directions:
 - Cook the egg noodles according to package instructions, stirring occasionally. Drain noodles and transfer to a large bowl. Add the remaining 2 tablespoons of butter, and toss to coat until butter is melted and noodles are coated. Season with salt and pepper.
 - Finely chop ½ cup parsley and add half to noodles; toss to coat.
 - Taste sauce and season with salt and pepper as needed. Spoon in a spoonful of the sour cream and stir to combine. Continue adding the sour cream, little by little so it doesn’t curdle. Add the cooked pasta into the mixture and add the remaining parsley on top.
+dairy: hard
 ---
 

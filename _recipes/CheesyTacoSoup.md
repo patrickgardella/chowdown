@@ -16,6 +16,7 @@ tags:
   - Weeknight
 yield: 4 servings
 date: December 29 2014
+dairy: hard
 
 ingredients:
 - 1 lb lean ground beef

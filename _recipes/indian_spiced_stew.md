@@ -41,7 +41,7 @@ directions:
 - Add chicken pieces, chicken broth, tomato purée, and cream to pot. Season with salt and pepper and bring to a boil. Reduce heat and simmer, partially covered, until chicken is almost falling off the bone and liquid is slightly thickened, about 1 1/2 hours. If using bone-in chicken, remove chicken to a plate and carefully remove chicken from the bone and discard skin and bones. Cut or pull chicken into bite-sized pieces. Return chicken pieces to the pot.
 - Add potatoes to the pot and cook, partially covered, until potatoes are fork-tender and sauce is thickened, 30-45 minutes. -Check and stir every so often to ensure the sauce hasn’t thickened to much and potatoes aren’t sticking to the bottom of the pot. If sauce is too thick, thin with a bit more chicken stock. 
 - To serve, spoon stew into a shallow bowl and place a large dollop of yogurt on one side. Sprinkle with some fresh chopped mint, cilantro or parsley and serve with naan bread on the side. Alternately, spoon stew over some warm basmati rice.
-
+dairy: hard
 ---
 A wonderfully hearty and Indian-spiced stew with chicken and potatoes in a tomato cream sauce. A perfect cold-weather dish for a lazy weekend meal or make it ahead (up to 3 days ahead!) for entertaining.
 

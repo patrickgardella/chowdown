@@ -41,5 +41,5 @@ directions:
 - Prepare filling- If using, combine lemon thyme leaves and 2 tablespoons sugar in a small bowl; rub mixture together using your fingertips. Place peach slices in one bowl and raspberries in a second bowl. Sprinkle sugar mixture evenly over peaches and raspberries; toss each to combine.
 - Whisk together yogurt, crème fraîche, remaining vanilla bean seeds, and remaining 2 tablespoons sugar in a small bowl until smooth.
 - Assemble the pavlova cake- Place 1 meringue round on a cake stand or platter. Spread with a thin layer of yogurt mixture, and top with about three-fourths of the peaches. Top with second meringue round. Spread with a thin layer of yogurt mixture and top with about three-fourths of the raspberries. Top with third meringue round. Spread with remaining yogurt mixture, and arrange remaining peaches and raspberries on top of pavlova cake. Garnish with lemon thyme sprigs. Serve immediately.
-
+dairy: hard
 ---

@@ -50,6 +50,7 @@ directions:
   - Serve hot, garnished with fresh parsley if desired. Enjoy!
   - To remove excess fat, skim the surface of the soup with a spoon or piece of lettuce before serving.
   - Store leftovers in an airtight container in the refrigerator for up to 4 days, or freeze for up to 3 months.
+dairy: hard
 ---
 
 This makes a lot of soup! Perfect for meal prep or freezing in individual portions for easy future meals.

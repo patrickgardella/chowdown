@@ -29,7 +29,7 @@ directions:
 - Continue cooking the sauce, breaking up the tomatoes with a wooden spoon (or potato masher) as you go, until the sauce reaches a low simmer.  Reduce heat to medium to maintain a steady simmer.  Then let the sauce continue to cook uncovered for about 25-30 minutes, stirring occasionally, until it has thickened** and reached your desired consistency.
 - Stir in the basil, salt and pepper.  Then taste the sauce, and season with any extra salt, pepper and/or crushed red pepper flakes as needed.
 - Serve immediately.  Or let the sauce cool and then refrigerate it in a sealed container for up to 4 days.
-
+dairy: easy
 ---
 
 This Spicy Arrabbiata Sauce recipe is super-simple to make, calls for just 6 main ingredients, and is guaranteed to kick your pasta nights up a delicious notch.

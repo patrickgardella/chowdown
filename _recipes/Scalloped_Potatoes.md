@@ -46,5 +46,5 @@ directions:
 - Sprinkle top of potatoes with gruyere, cheddar and Parmesan.  Spray aluminum foil with cooking spray, then cover the casserole dish (sprayed side down).  Place casserole on a baking sheet and bake for 60 minutes.
 - Remove foil and bake uncovered an additional 25-30 minutes.  Potatoes should be tender and cheese melted.  Broil on HIGH for a minute or two for extra browning and crispiness.
 - Sprinkle top with chives and parsley and serve.
-
+dairy: hard
 ---

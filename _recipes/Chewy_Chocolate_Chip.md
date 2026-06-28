@@ -17,6 +17,7 @@ prepTime: 20M
 cookTime: 30M
 totalTime: 1H50M
 recipeYield: 24 cookies
+dairy: easy
 
 ingredients:
 - 8 ounces unsalted butter

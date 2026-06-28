@@ -16,6 +16,7 @@ tags:
   - Side
   - Vegetarian
   - Weeknight
+dairy: easy
 
 ingredients:
 - 2 cups all-purpose flour, plus more for dusting

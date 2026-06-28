@@ -48,6 +48,7 @@ directions:
 - Bake for 20 minutes or until light golden brown. Cooking time can vary greatly!
 - While the rolls are baking make the icing by mixing all ingredients and beat well with an electric mixer until fluffy.
 - When the rolls are done, spread generously with icing.
+dairy: hard
 
 ---
 

@@ -42,5 +42,5 @@ directions:
 - Heat a large, heavy bottomed skillet over medium heat and once hot, add in 2 Tablespoons of unsalted butter. Roll each dough ball out until it is about 1/4-inch-thick. Brush the dough lightly with melted salted butter and place one at a time onto the hot skillet.
 - Cook until large bubbles form on the surface, about 2 minutes. Flip the dough and cook the other side until golden, about 1-2 more minutes. Stack the cooked flat bread on a plate and cover with a towel to keep warm as you cook the remaining pieces.
 - Add the minced garlic to the remaining melted butter and heat for 30 seconds on the stove top. Brush the warm naan with the garlic butter and top with cilantro.
-
+dairy: hard
 ---

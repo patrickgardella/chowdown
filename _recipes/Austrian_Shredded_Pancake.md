@@ -16,6 +16,7 @@ tags:
   - Weekend Project
 yield: 2 main 
 date: July 1 2019
+dairy: easy
 
 ingredients:
 - 1/2 cup (75 grams) raisins (optional)

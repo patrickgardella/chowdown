@@ -32,5 +32,5 @@ directions:
 - combine butter and oil in medium saucepan and heat over medium-low heat until butter is melted. Add garlic, oregano, pepper flakes, and salt and cook, stirring frequently, until fragrant but not browned, about 2 minutes. Add tomatoes, basil sprigs, thyme sprig, onion halves, and anchovy paste.
 - Bring to a simmer, reduce heat to lowest setting (bubbles should barely be breaking the surface), and cook, stirring occasionally, until reduced by 1/2, about 1 hour.
 - Discard onions and basil stems. Season to taste with salt. Allow to cool and store in covered container in the refrigerator for up to 2 weeks.
-
+dairy: easy
 ---

@@ -38,7 +38,7 @@ directions:
 - Add oats and raisins; mix well.
 - Drop dough by rounded tablespoonfuls onto ungreased cookie sheets.
 - Bake 8 to 10 minutes or until light golden brown. Cool 1 minute on cookie sheets; remove to wire rack. Cool completely. Store tightly covered.
-
+dairy: easy
 ---
 *Variations*
 Bar Cookies: Press dough onto bottom of ungreased 13 x 9-inch baking pan. Bake 30 to 35 minutes or until light golden brown. Cool completely in pan on wire rack. Cut into bars. Store tightly covered. 24 BARS. VARIATIONS: Stir in 1 cup chopped nuts. Substitute 1 cup semisweet chocolate chips or candy-coated chocolate pieces for raisins; omit cinnamon. Substitute 1 cup diced dried mixed fruit. HIGH ALTITUDE ADJUSTMENT: Increase flour to 1-3/4 cups and bake as directed.

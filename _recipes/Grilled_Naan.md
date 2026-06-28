@@ -31,7 +31,7 @@ directions:
 - Turn dough out onto floured work surface. Using a bench scraper or a knife, cut the dough into 12 even pieces. Roll each piece into a ball, then place on a well-floured surface (leaving a few inches of space between each one) and cover with a floured cloth. Alternatively, place each ball of dough in an individual covered pint-sized deli container. Allow dough to rise at room temperature until doubled in volume, about 2 hours.
 - Ignite a large chimney full of coals (about 5 quarts of coals) and spread evenly over half of the grill. Set grill grates in place, cover, and allow to preheat for 5 minutes. Scrape grill grates clean with a brush.
 - Working with two to three balls of dough at a time, stretch with your hands into an oblong roughly 10-inches long and 6-inches across (you can use a rolling pin for this as well). Once you have two or three pieces stretched, lay them out on the grill above the coals. Cook without moving until bottom side is charred in spots and light golden brown. Flip with a large spatula, pizza pell, or with tongs and cook until second side is charred and browned. Remove naan from the grill and immediately brush with melted butter. Transfer the naan to a large plate and cover it with a clean dish towel while you cook the remaining bread.
-
+dairy: hard
 ---
 J. Kenji Alt
 

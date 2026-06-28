@@ -37,7 +37,7 @@ directions:
 - Place a clean kitchen towel flat on top of the meringue (or use the one that is already there, if you've made this the day before) and quickly but carefully invert it onto the work surface, so that the crisp top of the meringue is now facing down and sitting on top of the kitchen towel. Lift the pan off and carefully peel away the parchment paper before spreading the meringue evenly with two-thirds of the whipped cream. Cover generously with 1 lb 2 ounces of the plums and 7 ounces of the blackberries, and sprinkle with 1/3 cup of the almonds.
 - Starting with the longest side closest to you, and using the kitchen towel to assist, roll the meringue up and over, so that the edges come together to form a log. Gently pull away the kitchen towel as you roll, then slide the meringue onto a long tray or platter, seam side facing down. Don't worry if the meringue loses its shape a bit or some of the fruit spills out; just hold your nerve and use your hands to pat it back into the shape of the log.
 - Pipe or spoon the remaining whipped cream down the length of the log. Top with the remaining fruit and almonds, dust with confectioners' sugar and serve.
-
+dairy: easy
 ---
 
 Pavlova is a meringue filled with cream and fruit. Ottolenghi's version looks like a Swiss roll and it's light because meringue has a lot of air in it. "Around Christmas, I use red currants, maybe some passion fruit, citrus but it doesn't matter what fruit you use," he says. The version below uses plums and blackberries. "It looks sensational because the meringue cracks and it looks like a yule log, where the meringue is the bark of the tree. And as soon as you dust it with a bit of powdered sugar, it really looks the part."

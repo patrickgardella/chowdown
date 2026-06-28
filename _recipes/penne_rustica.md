@@ -55,5 +55,5 @@ directions:
 - cook chicken and shrimp in olive oil 
 - in a 9 in pie dish, add pasta, chicken, shrimp, and prosciutto, stir in gratinata sauce, cover with grated parmesan cheese and sprinkle on paprika
 - bake for 10-12 minutes, or until tops begin to brown
-
+dairy: hard
 ---

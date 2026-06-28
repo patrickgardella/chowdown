@@ -38,5 +38,5 @@ directions:
 - Bring to a boil, and reduce heat to simmer.
 - Add chicken and half & half
 - Simmer 20-30 minutes
-
+dairy: hard
 ---

@@ -29,6 +29,7 @@ directions:
 - Pour over warm pasta
 - Add shrimp and toss to coat
 - Serve immediately
+dairy: hard
 ---
 
 Stir the pasta frequently while cooking so that it doesn’t stick together. It’s important to move quickly after draining the pasta, as the residual heat from the reserved cooking water and pasta will help the cheese and butter melt.

@@ -38,4 +38,5 @@ ingredients:
 directions:
 - Prepare the Crust: Preheat oven to 350°F. Spray a 13- x 9-inch baking pan with baking spray with flour. Line bottom and sides of pan with parchment paper, leaving a 2- to 3-inch overhang on 2 sides. Place flour, butter, powdered sugar, and salt in a food processor. Pulse until coarse crumbs form, 6 to 7 times. Firmly press mixture into bottom of prepared pan. Bake in preheated oven until light golden brown, about 20 minutes. (Crust will have cracks.)
 - Prepare the Filling: Whisk together eggs, corn syrup, brown sugar, honey, flour, melted butter, cinnamon, salt, and ginger in a bowl until smooth. Stir in pecans. Pour over warm Crust. Bake at 350°F until Filling is set, 25 to 30 minutes. Cool completely in pan, about 1 hour. Slice into 32 bars.
+dairy: easy
 ---

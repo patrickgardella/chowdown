@@ -34,6 +34,6 @@ directions:
 - Punch down dough, and knead in garlic. Pinch off small handfuls of dough about the size of a golf ball. Roll into balls, and place on a tray. Cover with a towel, and allow to rise until doubled in size, about 30 minutes.
 - During the second rising, preheat grill to high heat.
 - At grill side, roll one ball of dough out into a thin circle. Lightly oil grill. Place dough on grill, and cook for 2 to 3 minutes, or until puffy and lightly browned. Brush uncooked side with butter, and turn over. Brush cooked side with butter, and cook until browned, another 2 to 4 minutes. Remove from grill, and continue the process until all the naan has been prepared.
-
+dairy: easy
 ---
 "This recipe makes the best naan I have tasted outside of an Indian restaurant. I can't make enough of it for my family. I serve it with shish kabobs, but I think they would eat it plain."

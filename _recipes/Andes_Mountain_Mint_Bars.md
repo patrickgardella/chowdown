@@ -17,6 +17,7 @@ tags:
   - Vegetarian
   - No Cook
   - Weekend Project
+dairy: easy
 
 ingredients:
 - 1 sticks butter

@@ -17,6 +17,7 @@ tags:
   - Weekend Project
 yield: 8 servings
 date: January 26 2020
+dairy: easy
 
 ingredients:
 

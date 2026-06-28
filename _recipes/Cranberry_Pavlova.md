@@ -37,7 +37,7 @@ directions:
 - To assemble the pavlova, transfer the meringue to a serving platter. If yours is nicely dried out, you may be able to pick it right up off the parchment; if it’s sticky, which is fine, invert it onto the platter and peel the parchment off the bottom.
 - Plop the whipped cream on top of the meringue and spread it outwards with a spoon. Spread the cranberry sauce over top, and scatter the pomegranate seeds, nuts, and/or orange segments over that. Serve in slices—a wet knife is clutch here—or have at it with a spoon.
 - The meringue will soften the longer it sits, so eat it as soon as possible.
-
+dairy: easy
 ---
 
 Most pavlovas use French meringue for the base, but I prefer a lazy Swiss meringue here. It takes longer to dry out properly, but it’s so much easier to make that I find it worth the trade-off. Rather than heating the egg whites and sugar over a water bath, I just zap ‘em in the microwave for a bit—it’s a hell of a lot faster. Every other part of this recipe is extremely low-effort - simmer up a quick cranberry sauce, whip some cream, toast a handful or two nuts, and that’s it.

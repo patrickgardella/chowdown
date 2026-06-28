@@ -15,6 +15,7 @@ tags:
   - Vegetarian
   - Baked
   - Weeknight
+dairy: easy
 
 ingredients:
 

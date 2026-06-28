@@ -16,6 +16,7 @@ tags:
   - Vegetarian
   - No Cook
   - Weeknight
+dairy: easy
 
 ingredients:
   - 8 tablespoons butter, room temperature

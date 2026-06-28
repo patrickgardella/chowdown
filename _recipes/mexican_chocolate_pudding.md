@@ -36,5 +36,5 @@ directions:
 - Pour the mix into a pot and bring the mix to a quick boil over medium heat. Continue to stir often using the whisk. Once boiling, continue to whisk for one minute.
 - Remove from heat and add in the butter and vanilla extract. Whisk well until the butter is melted.
 - Pour the mix into a bowl and lightly cover with wax paper. Place the bowl in the refrigerator and allow the putting to set (roughly 90 minutes to 2 hours).
-
+dairy: easy
 ---

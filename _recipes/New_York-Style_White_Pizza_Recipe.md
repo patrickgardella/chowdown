@@ -45,7 +45,7 @@ directions:
 - The next day, remove the balls from the refrigerator 2 hours before you plan to roll them out to take off the chill and relax the gluten.
 - In a heavy saucepan, heat the olive oil over medium heat. Add the onion and sauté for 5 or 6 minutes, or until translucent. Add the garlic and stir for 1 minute longer. Add the cream, lower the heat to medium-low, and cook for about 3 minutes, or until the cream thickens and reduces slightly.
 - Remove from the heat, stir in the thyme, and season to taste with salt and pepper. Let cool completely before using.
-
+dairy: hard
 ---
 
 Everyone has a food that they love so much or crave so often that they will eat it even after just having finished Thanksgiving dinner. For me, that food is white pizza. If I am presented with a slice, or see it in a window or among the pizza pies at the pizzeria, I will eat it. If you feel the same way, then this quintessential white pizza recipe can turn your oven into your favorite New York corner pizza place.

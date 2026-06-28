@@ -38,4 +38,5 @@ directions:
 - Return chicken to broth, and add bouillon cubes, 1 tsp salt and 1/4 tsp ground pepper. Cook for 10 minutes, raising heat to nearly boiling (but still a simmer).
 - Drop dumplings, a few at a time, into simmering broth, stirring gently. Cover and simmer, stirring often, 25 minutes.
 
+dairy: easy
 ---

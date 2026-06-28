@@ -40,5 +40,6 @@ directions:
 - Prepare the Crust: Preheat oven to 350°F. Coat a 13- x 9-inch baking pan with baking spray with flour. Pulse next 4 ingredients in a food processor until combined, 5 to 6 times. Add cold butter; pulse until coarse crumbs form, 6 to 7 times. Firmly press into bottom of prepared pan. Bake until light golden brown, about 25 minutes. Cool slightly, about 10 minutes.
 - Prepare the Filling: Whisk together first 4 ingredients in a bowl. Add next 6 ingredients; stir until smooth. Pour over Crust.
 - Bake at 350°F until set, about 25 minutes. Remove from oven; cool completely in pan, about 1 1⁄2 hours. Chill 1 hour. Slice into 32 bars. Garnish with shaved coconut.
+dairy: easy
 ---
 Coconut milk adds a hint of tropical flavor to these delightfully tangy bars. From bake sales to bridal showers, these bars are perfect for entertaining. For the smoothest filling, whisk together the dry ingredients, and then stir in the wet ingredients until smooth. This will prevent tiny lumps of flour from forming.

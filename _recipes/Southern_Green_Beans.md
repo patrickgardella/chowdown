@@ -33,5 +33,5 @@ directions:
 - Add green beans to pot along with all remaining ingredients, except butter.
 - Bring to a boil and then turn heat to medium-low. Cover and simmer for 1-2 hours, stirring occasionally.
 - Drain beans and add butter if using. Check beans for seasoning and add extra salt and pepper to taste. I like lots of black pepper. Sprinkle with bacon and toss to distribute the bacon and butter.
-
+dairy: easy
 ---

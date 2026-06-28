@@ -33,5 +33,5 @@ directions:
 - Roll into balls. 
 - Dip wet glass bottom into sugar and press ball flat. 
 - Bake on ungreased cookie sheet 6-8 minutes in 400°F oven.
-
+dairy: easy
 ---

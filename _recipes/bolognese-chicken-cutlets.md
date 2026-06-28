@@ -38,6 +38,7 @@ For the cutlets:
 - 1 teaspoon granulated garlic
 For serving (optional):
 - Arugula or escarole dressed with lemon juice, EVOO, and salt
+dairy: hard
 
 directions: 
 - In a saucepan, bring the milk and garlic to a gentle simmer over medium-low heat. Strain the hot milk into a medium bowl. In the same saucepan, melt the butter over medium-high heat. Add the flour; whisk until blended. Cook for a minute or two, whisking constantly. Whisk in the hot milk; season with salt, white pepper and nutmeg. Add the cheeses and stir until melted, 1 to 2 minutes. Cover the sauce and keep warm over low heat.

@@ -28,7 +28,7 @@ directions:
 - To make the pierogi, I take sections of the dough and run it through my pasta machine. If you don’t have one, you can use a rolling pin to create flat sheets of dough like you would for ravioli. You need something circular that is about 2-3 inches in diameter to cut holes in the dough. I use a big canning jar.
 - Once you have your circles, place a little dollop of filling in each one. I dip my fingers in cold water and dab the edges of the dough so that it seals nicely. Fold in half, pack the filling in, and use your fingertips to pinch, seal, and crimp the edges.
 - I boil these for about four minutes, then sear them in a hot pan on both sides with butter. To me, that light sear is important. It adds necessary texture to the dough. You’ll get a nice balance between the crispy pierogi and soft filling. Salt and pepper again.
-
+dairy: hard
 ---
 
 Dry cottage cheese and dill filling

@@ -40,5 +40,5 @@ directions:
 - cover corn with mashed potatoes
 - sprinkle more cheese onto mashed potatoes
 - cook in preheated oven for 30 minutes
-
+dairy: hard
 ---

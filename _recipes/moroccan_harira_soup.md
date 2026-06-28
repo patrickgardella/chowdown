@@ -38,4 +38,5 @@ directions:
 - Add the tomatoes and cilantro and stir well. Allow the base to simmer over medium for 5 to 7 minutes until slightly thickened.
 - Add the lentils, harissa, and water then increase the heat to high. Bring the soup to a boil, then reduce the heat to low. Allow the soup to simmer over low for 90 minutes until the soup has thickened and the lentils are softened. Stir occasionally.
 - Serve once soup reaches its desired consistency. Top with greek yogurt and kefta spice blend (optional).
+dairy: hard
 ---

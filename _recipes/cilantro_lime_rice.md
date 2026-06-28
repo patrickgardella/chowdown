@@ -28,4 +28,5 @@ directions:
 - add rice, water, butter, and salt to rice cooker and cook as directed
 - when rice is done, stir in lime juice and cilantro
 
+dairy: easy
 ---

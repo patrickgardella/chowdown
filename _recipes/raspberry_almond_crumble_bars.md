@@ -35,5 +35,6 @@ directions:
 - Prepare the Filling: Stir together first five ingredients in a saucepan. Bring to a boil over medium-high, stirring occasionally. Reduce heat to medium-low; cook, stirring often, until thickened and reduced to 3 1⁄2 cups, 8 to 10 minutes. Cool completely, about 1 hour.
 - Prepare the Crumble: Preheat oven to 350°F. Spray a 13- x 9-inch baking pan with cooking spray. Line bottom and sides of pan with parchment, leaving a 2-inch overhang on all sides. Stir together flour, oats, brown sugar, almonds, cinnamon, and baking soda in a large bowl. Stir in melted butter until combined. Firmly press 4 cups of the Crumble mixture into bottom of prepared pan. Bake until lightly browned around edges, 10 to 12 minutes. Cool 5 minutes.
 - Spread cooled Filling over warm crust; sprinkle with remaining Crumble. Bake at 350°F until filling is bubbly, 35 to 40 minutes. Cool completely in pan, about 2 hours. Lift bars out of pan using parchment as handles. Slice into 32 bars. 
+dairy: easy
 ---
 Gooey and crumbly bars are the perfect snack. To give these dessert bars an extra-thick layer of fruit, we added berries to the mixture. Fresh or frozen berries will work equally fine in this recipe. For the neatest squares, cool the bars completely before cutting—or refrigerate up to two hours.

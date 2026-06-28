@@ -37,7 +37,7 @@ directions:
 
 componenents:
 - Cajun Seasoning
-
+dairy: hard
 ---
 
 title: Cajun Seasoning

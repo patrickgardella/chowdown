@@ -17,6 +17,7 @@ tags:
   - Vegetarian
   - Baked
   - Weeknight
+dairy: easy
 
 ingredients:
 - 1 c (100g)  oats

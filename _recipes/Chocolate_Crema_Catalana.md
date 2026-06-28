@@ -15,6 +15,7 @@ tags:
   - Entertaining
 yield: 8 Servings
 date: February 17 2020
+dairy: easy
 
 ingredients:
   - 6 egg yolks

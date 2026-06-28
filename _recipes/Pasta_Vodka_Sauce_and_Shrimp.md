@@ -44,5 +44,5 @@ directions:
 - Add cream to sauce and stir. Bring back to a bubble and turn off heat.
 - Reserve about 1/2 cup of starchy salty water and drain pasta or transfer to sauce with a spider. Toss pasta with sauce and grated cheese, using water to loosen as necessary. Add shrimp to sauce.
 - Transfer pasta to large serving bowl or to individual shallow bowls to serve.
-
+dairy: hard
 ---

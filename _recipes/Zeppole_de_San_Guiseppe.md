@@ -46,5 +46,5 @@ directions:
 - Cut the pastries in half horizontally.  Transfer the filling mixture to a pastry bag with a star tip.  Pipe some of the filling onto the cut side of the bottom half of each pastry.  Place the top half of the pastry on the filling.
 - Pipe a small amount of the filling into the hole in the center of each pastry.
 - Place a maraschino cherry in the middle.  Dust the pastries with confectioners' sugar.
-
+dairy: easy
 ---

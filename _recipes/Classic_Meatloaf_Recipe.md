@@ -34,6 +34,7 @@ ingredients:
 - 1 cup fresh bread crumbs
 - 2 large eggs, beaten slightly
 - 1/3 cup minced fresh parsley leaves
+dairy: easy
 
 directions:
 - Preheat oven to 350° F, with a rack in the middle.

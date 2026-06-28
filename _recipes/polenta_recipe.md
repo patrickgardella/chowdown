@@ -31,7 +31,7 @@ directions:
 - Once it's nice and thick, turn off the heat. Add in a couple tablespoons of butter and some pepper. You can also add some hard cheese at this point!
 - At this point you can serve it as-is with sauce on top or pour it into a bowl that's been greased and let it cool for a few minutes and cut it into slices and then serve!
 - You can also pour it into a rectangular or square container and let it chill in the fridge for nice slices for lasagna or frying. It's all up to you. :D
-
+dairy: hard
 ---
 
 This is the most basic of polenta recipes - I make it like this every time. Making your polenta from scratch lets you control the flavor and salt content, and it always comes out much nicer than ready made polenta in a tube. ;)

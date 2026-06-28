@@ -28,6 +28,7 @@ directions:
 - Add to greased and floured pan
 - Bake until brown/cracked, toothpick comes out clean
 
+dairy: easy
 ---
 
 From Angie's mom

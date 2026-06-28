@@ -55,6 +55,6 @@ directions:
 - Cook the sauce for 5 minutes, then add the garam masala and kasuri methi.
 - Mix, add the water and all the koftas.
 - Turn the heat to low, cover the pan with a lid and let it cook for 15 to 20 minutes or until the koftas are cooked through.
-
+dairy: easy
 ---
 Serve with naan or rice.

@@ -51,6 +51,22 @@ a:hover .image{opacity:0.2;}
 .footer-source { font-size: 0.75rem; }
 .print-source { display: none; }
 
+.dairy-badge {
+  display: inline-block;
+  font-size: 0.6rem;
+  font-weight: bold;
+  padding: 0.15em 0.55em;
+  border-radius: 10px;
+  vertical-align: middle;
+  margin-left: 0.4em;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+  position: relative;
+  top: -2px;
+}
+.dairy-hard { background: #d9541e; color: #fff; }
+.dairy-easy { background: #f0c030; color: #333; }
+
 .tag-recipe-list { columns: 2; column-gap: 2rem; }
 @media all and (max-width: 40em) { .tag-recipe-list { columns: 1; } }
 

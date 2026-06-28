@@ -14,6 +14,7 @@ tags:
   - Vegetarian
   - Baked
 yield: 12
+dairy: easy
 
 ingredients:
 - 2                cups all-purpose flour, plus more for dusting

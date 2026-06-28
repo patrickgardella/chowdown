@@ -38,7 +38,7 @@ directions:
 - Prepare pizza dough.
 - Spread sauce over pizza. Add six or so artichoke hearts, feta cheese, mozzarella cheese, spinach, and then top with parmesan cheese.
 - Cook at 500°F (or higher) for 8-10 minutes
-
+dairy: hard
 ---
 
 Leave enough time for the garlic to roast!

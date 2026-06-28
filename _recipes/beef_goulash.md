@@ -14,6 +14,7 @@ tags:
   - Weeknight
 yield: 4
 date: 17 May 2019
+dairy: easy
 
 ingredients:
 

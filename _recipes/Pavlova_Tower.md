@@ -49,7 +49,7 @@ directions:
 - Take the largest meringue and brush the top with roughly 3 tablespoons of the melted white chocolate to create a seal. Repeat with the other two meringue layers and leave to set and the chocolate to harden.
 - Place the largest meringue onto the serving plate and top with ¾ of the raspberry cream and ⅓ of the macerated soft fruits. Top with the second meringue layer, spoon over the lemon cream and another ⅓ of the soft fruits.
 - Add the third meringue layer, spread with the remaining raspberry cream and soft fruits. Finally place the meringue kiss on top and decorate with rose petals or/and sugared almonds.
-
+dairy: hard
 ---
 
 Base meringue

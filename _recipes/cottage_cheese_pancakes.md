@@ -25,6 +25,7 @@ ingredients:
 - 1 large egg yolks
 - 1/2 teaspoon vanilla
 - 1 large egg whites
+dairy: hard
 
 directions:
 - Lightly butter, oil, or spray your griddle–nonstick works best with these, if you have them–if needed, and preheat it over medium heat. If you are using an electric griddle, preheat it to 350 degrees F. Preheat the oven to 200 degrees F if you do not plan to serve the pancakes hot off the griddle.

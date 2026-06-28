@@ -41,7 +41,7 @@ directions:
 - Set a large pot of water on the stove to boil, and cook Ziti for the time suggested on the packet, or until al dente. To test this, remove a piece of pasta from the pot and take a bite – it should be cooked but still slightly firm in the centre.
 - When the pasta is cooked, drain it and put it into a big serving bowl.
 - Mix it with the Neapolitan Meat Ragout Sauce and serve immediately with finely grated Pecorino Romano on the top.
-
+dairy: hard
 ---
 
 Ziti with Neapolitan Meat Ragout - the quintessential Sunday supper meal typical of the beautiful southern city of Naples. And yes, it tastes as good as it looks!

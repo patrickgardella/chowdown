@@ -16,6 +16,7 @@ tags:
   - Vegetarian
   - Baked
   - Weeknight
+dairy: hard
 
 ingredients:
 

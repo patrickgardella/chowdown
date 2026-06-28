@@ -25,6 +25,7 @@ ingredients:
 - 1 egg
 - 2 tablespoons butter, melted
 - cooking spray
+dairy: easy
 
 directions:
 - Combine milk with vinegar in a medium bowl and set aside for 5 minutes to "sour".

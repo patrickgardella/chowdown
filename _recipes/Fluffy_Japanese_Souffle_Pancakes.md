@@ -51,7 +51,7 @@ directions:
 - Add water in empty spaces and set timer for 4 to 5 minutes to cook the other side on the lowest heat.
 - Once they are nicely browned, transfer the pancakes to your serving plates. 
 - Place fresh cream on the pancakes and top with berries. Dust the pancake with confectioners’ sugar and drizzle with maple syrup. Enjoy!
-
+dairy: easy
 ---
 5 Important Tips to Make Fluffy Japanese Souffle Pancakes
 Here are some of my personal tips that helped me achieve the perfect souffle pancakes.

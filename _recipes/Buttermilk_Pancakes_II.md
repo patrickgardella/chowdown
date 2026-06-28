@@ -17,6 +17,7 @@ totalTime: 25M
 recipeYield: 16 pancakes
 image: ButtermilkPancakesII.jpg
 imagecredits: https://www.allrecipes.com/recipe/24530/buttermilk-pancakes-ii/
+dairy: easy
 
 ingredients:
 - 2 cups all-purpose flour

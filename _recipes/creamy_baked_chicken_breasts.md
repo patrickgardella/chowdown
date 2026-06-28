@@ -34,5 +34,5 @@ directions:
 - sprinkle stuffing mix all over
 - drizzle butter on top
 - bake for 1 hour or until chicken reaches 165
-
+dairy: hard
 ---

@@ -16,6 +16,7 @@ tags:
   - Egg
   - Baked
   - Weeknight
+dairy: easy
 
 ingredients:
 - 1 c sugar

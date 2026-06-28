@@ -17,6 +17,7 @@ tags:
   - Vegetarian
   - Baked
   - Entertaining
+dairy: easy
 
 ingredients:
 - 1/2 cup warm water (100°F to 110°F)

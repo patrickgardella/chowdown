@@ -34,7 +34,7 @@ directions:
 - Bake until a deep golden brown, about 16 - 20 minutes, switching and rotating sheets halfway through baking. I baked it 16 minutes, but that felt a bit too long. Assess halfway through and determine how much more time you will need.
 - Once completely baked, take the cookie sheets out and score immediately using a chef's knife or a pizza cutter.
 - Once the cookies are cool, about 20 minutes, you can remove the cookies from the parchment. Go over scoring lines with the dull side of a paring knife and they should separate perfectly. Enjoy!
-
+dairy: easy
 ---
 
 This recipe came from the Cook's Illustrated folks other great cooking publication and show called Cook's Country. It takes rather old fashioned recipes they find from old cookbooks and other sources and modernize them for today's kitchens and cooks. I am never disappointed with their recipes and this one will be a keeper.

@@ -39,7 +39,7 @@ directions:
 - Melt butter in 10" cast iron skillet
 - Pour in batter
 - Cook for 20-25 minutes or until GBD and toothpick comes out clean.
-
+dairy: easy
 ---
 
 See [smaller recipe](SweetButtermilkCornbreadSmall.html) for 1/2 batch.

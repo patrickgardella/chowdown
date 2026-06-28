@@ -33,5 +33,5 @@ directions:
 - Sprinkle remaining cheese on top, then cover with crushed corn flakes.
 - Drizzle two tablespoons melted butter or margarine over mixture
 - Bake for 55 minutes.
-
+dairy: hard
 ---
