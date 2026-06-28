@@ -10,7 +10,12 @@ cook_time:
 total_time: 
 yield: 4 servings
 source:
-tags: Chicken, Entree
+tags:
+  - Main
+  - American
+  - Chicken
+  - Baked
+  - Weeknight
 
 ingredients:
 

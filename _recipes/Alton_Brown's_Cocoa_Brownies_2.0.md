@@ -10,7 +10,14 @@ cook_time:
 total_time:
 yield: 9 brownies
 source:
-tags: Dessert, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Cake
+  - American
+  - Vegetarian
+  - Baked
+  - Weeknight
 
 ingredients:
 

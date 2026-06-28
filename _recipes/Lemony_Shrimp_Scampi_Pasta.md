@@ -3,7 +3,13 @@
 layout: recipe
 title: Lemony Shrimp Scampi Pasta
 date: Dec 09 2017 21:54:43
-tags: Pasta, Seafood, Keeper
+tags:
+  - Keeper
+  - Main
+  - Italian
+  - Seafood
+  - One Pan
+  - Weeknight
 source: Melissa d'Arabian
 prepTime: 10 min
 cookTime: 10 min

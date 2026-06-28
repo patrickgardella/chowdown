@@ -3,7 +3,13 @@
 layout: recipe
 title: "Carrabbas Spicy Sicillian Chicken Soup"
 date: May 15 2013 14:17:29
-tags: Chicken, Keeper, Italian
+tags:
+  - Keeper
+  - Soup
+  - Italian
+  - Chicken
+  - One Pan
+  - Weekend Project
 source: http://www.food.com/465655
 image: CarrabbasSpicyChicken.jpg 
 imageCredit: https://www.geniuskitchen.com/user/2004421

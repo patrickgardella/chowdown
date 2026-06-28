@@ -10,7 +10,11 @@ cook_time: 10 min
 total_time:
 yield:
 source:
-tags: Dessert, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Candy
+  - Vegetarian
 
 ingredients:
 - 250 gms – 1 ¾ cups almonds unpeeled

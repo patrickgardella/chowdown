@@ -3,7 +3,12 @@
 layout: recipe
 title: Italian Meringue
 date: Mar 15 2014 13:57:54
-tags: Dessert, Keeper, Italian
+tags:
+  - Keeper
+  - Sauce
+  - Italian
+  - Egg
+  - Weeknight
 source: http://rouxbe.com/recipes/2699-italian-meringue
 cooktime: 20M
 totaltime: 20M

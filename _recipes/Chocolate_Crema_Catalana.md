@@ -6,7 +6,13 @@ imagecredit: Manuela Zangara
 prep_time: 1 hr
 cook_time: 15 min
 total_time: 1 hr 15 min
-tags: Dessert, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Pudding
+  - Mediterranean
+  - Egg
+  - Entertaining
 yield: 8 Servings
 date: February 17 2020
 

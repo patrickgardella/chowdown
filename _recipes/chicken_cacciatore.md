@@ -6,7 +6,13 @@ prep_time: 25 min
 cook_time: 8 hrs
 image: chicken_cacciatore.jpg
 imagecredit: http://www.eatingwell.com/recipe/269819/slow-cooker-chicken-cacciatore-with-polenta/
-tags: Entree, Chicken, NotTried, Italian
+tags:
+  - Not Tried
+  - Main
+  - Italian
+  - Chicken
+  - Slow Cooker
+  - Weekend Project
 
 ingredients:
 - 2 teaspoons extra-virgin olive oil

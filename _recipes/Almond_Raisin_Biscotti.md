@@ -10,7 +10,14 @@ cook_time:
 total_time:
 yield: About 3 dozen small biscotti
 source:
-tags: Italian, Breakfast, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Cookie
+  - Italian
+  - Vegetarian
+  - Baked
+  - Weekend Project
 
 ingredients:
 - 1 cup sugar

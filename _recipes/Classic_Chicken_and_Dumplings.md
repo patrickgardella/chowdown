@@ -3,7 +3,12 @@
 layout: recipe
 title: Classic Chicken And Dumplings
 date: Jun 28 2015 22:47:50
-tags: Chicken
+tags:
+  - Soup
+  - American
+  - Chicken
+  - One Pan
+  - Weekend Project
 source: Modified from Southern Living January 2010 (p 126)
 totalTime: 2H30M
 image: classicchickendumplings.jpg

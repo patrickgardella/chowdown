@@ -3,7 +3,14 @@
 layout: recipe
 title: Italian Meatball Subs
 date: Jul 04 2015 19:11:17
-tags: Beef, Entree, Keeper
+tags:
+  - Keeper
+  - Main
+  - Italian
+  - Beef
+  - Pork
+  - Slow Cooker
+  - Weekend Project
 image: Giant-Meatball-Sub_exps17780_GB143373D01_15_2bC_RMS-1.jpg
 imageCredit: https://www.tasteofhome.com/recipes/italian-meatball-subs/
 

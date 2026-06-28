@@ -3,7 +3,11 @@
 layout: recipe
 title: New York-Style Pizza Sauce
 date: Aug 14 2018 15:58:05
-tags: Sauce, Keeper, Italian
+tags:
+  - Keeper
+  - Sauce
+  - Italian
+  - Vegetarian
 prepTime: 15 min
 totalTime: 2 hours
 recipeYield: Makes enough for 2 to 4 (12-inch) pies, depending on how much sauce you like

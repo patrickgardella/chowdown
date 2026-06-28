@@ -10,7 +10,13 @@ cook_time: 15 min
 total_time: 20 min
 yield: 4
 source:
-tags: Chicken, NotTried
+tags:
+  - Not Tried
+  - Main
+  - Grilled
+  - Chicken
+  - Mediterranean
+  - Weeknight
 
 ingredients:
 

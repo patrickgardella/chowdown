@@ -7,7 +7,12 @@ imagecredit: Todd Wilbur
 prep_time:
 cook_time:
 total_time:
-tags: Chicken, NotTried, Chinese, Entree
+tags:
+  - Not Tried
+  - Appetizer
+  - Chicken
+  - Chinese
+  - One Pan
 yield: 2
 date: 2019/04/27
 

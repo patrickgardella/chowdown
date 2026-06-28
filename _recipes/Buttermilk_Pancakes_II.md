@@ -3,7 +3,13 @@
 layout: recipe
 title: Buttermilk Pancakes
 date: Apr 18 2014 15:14:08
-tags: Keeper, Breakfast
+tags:
+  - Keeper
+  - Breakfast
+  - American
+  - Vegetarian
+  - Egg
+  - Weeknight
 source: Modified from Printed from Allrecipes.com 4/18/2014
 prepTime: 15M
 cookTime: 10M

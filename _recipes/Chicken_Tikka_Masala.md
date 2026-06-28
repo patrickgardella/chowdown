@@ -3,7 +3,14 @@
 layout: recipe
 title: Chicken Tikka Masala
 date: Jun 14 2016 21:02:08
-tags: Entree, Indian, Chicken, Keeper
+tags:
+  - Keeper
+  - Main
+  - Indian
+  - Chicken
+  - Grilled
+  - One Pan
+  - Weekend Project
 source: Printed From Allrecipes.com 6/14/2016
 image: ChickenTikkaMasala.jpg
 imageCredit: https://www.allrecipes.com/cook/1133670/

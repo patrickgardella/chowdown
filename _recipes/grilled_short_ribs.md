@@ -8,7 +8,13 @@ cook_time: 5 min
 date: 2019-02-24
 image: short_ribs_scallions.jpg
 imagecredit: https://www.rachaelraymag.com/recipe/short-ribs-with-soy-scallions
-tags: Beef, NotTried, Entree
+tags:
+  - Not Tried
+  - Main
+  - Korean
+  - Beef
+  - Grilled
+  - Weeknight
 
 ingredients:
 - 1/4 cup soy sauce

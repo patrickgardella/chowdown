@@ -7,7 +7,13 @@ imagecredit: https://skillet.lifehacker.com/how-to-make-your-home-fries-extra-cr
 prep_time: 15 min
 cook_time: 30 min
 total_time: 45 min
-tags: Breakfast, NotTried
+tags:
+  - Not Tried
+  - Breakfast
+  - Side
+  - Pork
+  - One Pan
+  - Weeknight
 yield: 4 servings
 date: October 4 2019
 

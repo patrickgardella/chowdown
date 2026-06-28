@@ -7,7 +7,13 @@ imagecredit: https://www.seriouseats.com/recipes/2011/08/grilled-naan-recipe.htm
 prep_time: 1 hrs
 cook_time: 5 min
 total_time: 6 hrs
-tags: Indian, Keeper, Bread
+tags:
+  - Keeper
+  - Side
+  - Indian
+  - Vegetarian
+  - Grilled
+  - Weekend Project
 yield: 12 pita
 date: June 28 2019
 

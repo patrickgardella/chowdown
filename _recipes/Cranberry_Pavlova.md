@@ -3,7 +3,13 @@
 layout: recipe
 title: Cranberry Pavlova
 date: Nov 21 2018 14:53:22
-tags: Dessert
+tags:
+  - Dessert
+  - Cake
+  - French
+  - Egg
+  - Baked
+  - Weekend Project
 source: https://skillet.lifehacker.com/brighten-up-your-thanksgiving-dessert-spread-with-a-cra-1830539135
 image: cranberrypavlova.jpg
 imageCredit: https://kinja.com/aanewton

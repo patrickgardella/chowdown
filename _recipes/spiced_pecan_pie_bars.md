@@ -8,7 +8,15 @@ prep_time: 10 min
 cook_time: 30 min
 total_time: 2 hrs
 yield: 32 bars
-tags: Dessert, Keeper
+tags:
+  - Keeper
+  - Dessert
+  - Pie
+  - American
+  - Vegetarian
+  - Egg
+  - Baked
+  - Weekend Project
 
 ingredients:
 - Baking spray with flour 

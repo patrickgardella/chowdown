@@ -3,7 +3,13 @@
 layout: recipe
 title: "Grandmas Sugar Cookies"
 date: Apr 04 2015 00:38:29
-tags: Cookie, Keeper
+tags:
+  - Keeper
+  - Dessert
+  - Cookie
+  - Egg
+  - Vegetarian
+  - Baked
 source: Blanche Beltz
 prepTime: 10M
 image: soft_sugar_cookies.jpg

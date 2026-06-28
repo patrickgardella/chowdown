@@ -3,7 +3,13 @@
 layout: recipe
 title: Old Fashioned Pancakes
 source: https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/
-tags: Keeper, Entree, Breakfast
+tags:
+  - Keeper
+  - Breakfast
+  - American
+  - Vegetarian
+  - Egg
+  - Weeknight
 prepTime: 5M
 cookTime: 15M
 totalTime: 20M

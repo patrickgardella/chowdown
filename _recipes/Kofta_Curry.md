@@ -7,7 +7,14 @@ imagecredit: https://www.manusmenu.com/lamb-kofta-curry
 prep_time: 1 hr 15 min
 cook_time: 45 min
 total_time: 2 hr
-tags: Entree,Indian,NotTried,Lamb
+tags:
+  - Not Tried
+  - Main
+  - Indian
+  - Lamb
+  - Egg
+  - One Pan
+  - Weekend Project
 yield: 6 servings
 date: September 14 2017
 

@@ -7,7 +7,12 @@ imagecredit: The Takeout
 prep_time:
 cook_time:
 total_time:
-tags: Side, Polish, NotTried
+tags:
+  - Not Tried
+  - Main
+  - Egg
+  - Vegetarian
+  - Weekend Project
 yield: 
 date: 2019-04-20
 

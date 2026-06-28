@@ -7,7 +7,13 @@ imagecredit:
 prep_time: 10 min
 cook_time: 25 min
 total_time: 35 min
-tags: Bread, Keeper
+tags:
+  - Keeper
+  - Side
+  - American
+  - Vegetarian
+  - Baked
+  - Weeknight
 yield: 8 slices
 date: Jan 1 2000
 

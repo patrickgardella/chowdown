@@ -7,7 +7,17 @@ imagecredit: Gimme Some Oven
 prep_time: 15 min
 cook_time: 15 min
 total_time: 30 min
-tags: Thai, Chicken, NotTried, Entree
+tags:
+  - Not Tried
+  - Soup
+  - Thai
+  - Chicken
+  - Beef
+  - Pork
+  - Seafood
+  - Vegetarian
+  - One Pan
+  - Weeknight
 yield: 4
 date: 2019-04-20
 

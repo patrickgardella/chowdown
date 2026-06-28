@@ -8,7 +8,14 @@ prep_time: 40 min
 cook_time: 50 min
 image: coq-au-vin.jpg
 imagecredit: https://www.rachaelraymag.com/recipe/coq-au-vin
-tags: Chicken, Entree, NotTried, French
+tags:
+  - Not Tried
+  - Main
+  - French
+  - Chicken
+  - Pork
+  - One Pan
+  - Weekend Project
 
 ingredients:
 - 2 tbsp. olive oil

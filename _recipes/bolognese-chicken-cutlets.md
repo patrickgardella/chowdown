@@ -3,7 +3,13 @@
 layout: recipe
 title: Bolognese-Style Chicken Cutlets
 serves: 4
-tags: Italian, Chicken, Entree, Keeper
+tags:
+  - Keeper
+  - Main
+  - Italian
+  - Chicken
+  - Pork
+  - Entertaining
 image: chicken-cutlets.jpg 
 imagecredit: https://www.rachaelrayshow.com/recipes/rachaels-bolognese-style-chicken-cutlets
 

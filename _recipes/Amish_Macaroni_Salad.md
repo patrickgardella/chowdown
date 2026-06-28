@@ -9,7 +9,13 @@ cook_time:
 total_time:
 yield:
 source:
-tags: Salad, NotTried
+tags:
+  - Not Tried
+  - Salad
+  - American
+  - Egg
+  - Vegetarian
+  - Weeknight
 
 ingredients:
   - 2 cups uncooked elbow macaroni

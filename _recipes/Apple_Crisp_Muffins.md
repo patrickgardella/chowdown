@@ -10,7 +10,12 @@ cook_time:
 total_time:
 yield: 10 muffins
 source: http://iowagirleats.com/recipes/?recipe_id=6053891
-tags: Bread, NotTried, Breakfast
+tags:
+  - Not Tried
+  - Breakfast
+  - Egg
+  - Baked
+  - Weeknight
 
 ingredients: 
 - 1/4 cup butter, at room temperature

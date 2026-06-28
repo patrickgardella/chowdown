@@ -7,7 +7,13 @@ imagecredit:
 prep_time: 40 min
 cook_time: 30 min
 total_time: 1 hr 10 min
-tags: Keeper, Pork, Entree
+tags:
+  - Keeper
+  - Main
+  - American
+  - Pork
+  - Egg
+  - Baked
 yield: 1 per chop
 date: Jan 1 2000
 

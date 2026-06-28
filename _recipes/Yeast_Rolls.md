@@ -10,7 +10,11 @@ cook_time: 25 min
 total_time: 9 hrs
 yield: 12 rolls
 source: https://www.google.com
-tags: Bread
+tags:
+  - Side
+  - Baked
+  - Egg
+  - Weekend Project
 
 ingredients:
 - 2 packages yeast

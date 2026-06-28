@@ -7,7 +7,12 @@ imagecredit: PepperScale
 prep_time: 10 min
 cook_time: 10 min
 total_time: 2 hrs
-tags: Dessert, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Pudding
+  - Mexican
+  - Vegetarian
 yield: 4 
 date: 2019-04-21
 

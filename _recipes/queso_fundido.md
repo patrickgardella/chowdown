@@ -7,7 +7,13 @@ prep_time: 15 min
 cook_time: 15 min
 image: loaded-queso-fundido.jpg
 imagecredit: https://www.rachaelraymag.com/recipe/loaded-queso-fundido
-tags: Mexican, NotTried, Appetizer
+tags:
+  - Appetizer
+  - Mexican
+  - Pork
+  - Baked
+  - Entertaining
+  - Not Tried
 
 ingredients:
 - 1 pound pepper jack, shredded

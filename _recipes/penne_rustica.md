@@ -10,7 +10,14 @@ cook_time: 50 minutes
 total_time: 
 yield: 
 source:
-tags: Entree, Pasta
+tags:
+  - Main
+  - Italian
+  - Chicken
+  - Seafood
+  - Pork
+  - One Pan
+  - Weekend Project
 
 ingredients:
 

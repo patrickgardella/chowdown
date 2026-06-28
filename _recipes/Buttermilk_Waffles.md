@@ -3,7 +3,11 @@
 layout: recipe
 title: Buttermilk Waffles
 date: Jul 04 2018 14:42:19
-tags: Keeper, Breakfast
+tags:
+  - Keeper
+  - Breakfast
+  - Egg
+  - Weeknight
 recipeYields: 4-6 waffles
 image: ButtermilkWaffles.jpg
 imageCredit: https://www.allrecipes.com/cook/23752990/

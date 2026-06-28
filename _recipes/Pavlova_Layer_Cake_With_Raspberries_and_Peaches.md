@@ -3,7 +3,14 @@
 layout: recipe
 title: Pavlova Layer Cake With Raspberries And Peaches
 date: Jun 06 2018 21:21:50
-tags: NotTried, Dessert
+tags:
+  - Not Tried
+  - Dessert
+  - Cake
+  - French
+  - Egg
+  - Baked
+  - Entertaining
 prepTime: 45M
 totalTime: 2H
 recipeYield: 16 slices

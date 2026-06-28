@@ -7,7 +7,13 @@ imagecredit:
 prep_time: 0 minutes
 cook_time: 40 minutes
 total_time: 40 minutes
-tags: Chicken, Soup, Mexican, Keeper
+tags:
+  - Keeper
+  - Soup
+  - Mexican
+  - Chicken
+  - One Pan
+  - Weeknight
 yield: 4 servings
 date: January 14 2013 
 

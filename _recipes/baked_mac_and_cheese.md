@@ -10,7 +10,12 @@ cook_time: 40 minutes
 total_time: 55 minutes
 yield: 4 servings
 source:
-tags: Pasta
+tags:
+  - Main
+  - American
+  - Vegetarian
+  - Baked
+  - Weeknight
 
 ingredients:
 

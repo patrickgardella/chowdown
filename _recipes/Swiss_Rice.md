@@ -7,7 +7,12 @@ imagecredit: Garlic Lover's Cookbook
 prep_time: 10 min
 cook_time: 30 min
 total_time: 40 min
-tags: Pork, Entree, Keeper
+tags:
+  - Keeper
+  - Main
+  - Pork
+  - One Pan
+  - Weeknight
 yield: 4 servings
 date: Dec 31 1999
 

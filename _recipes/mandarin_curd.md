@@ -7,7 +7,10 @@ imagecredit: Manu's Menu
 prep_time: 7 min
 cook_time: 15 min
 total_time: 22 min
-tags: Dessert, NotTried
+tags:
+  - Not Tried
+  - Sauce
+  - Egg
 yield: 2 cups
 date: 2019-04-21
 

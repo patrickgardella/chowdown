@@ -4,7 +4,12 @@ layout: recipe
 title: Chicken Paprikash
 image: WGC-Chicken-Paprikash.jpg
 imagecredits: https://whatsgabycooking.com/chicken-paprikash/
-tags: Chicken, Entree, NotTried, Hungarian
+tags:
+  - Not Tried
+  - Main
+  - Chicken
+  - Egg
+  - One Pan
 prep_time:
 cook_time: 
 yield: 4-6

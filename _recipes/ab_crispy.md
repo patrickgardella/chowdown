@@ -4,7 +4,13 @@ layout: recipe
 title: Alton Browns Crispy Chocolate Chip Cookie
 image: the-crispy.jpg
 imagecredit: https://www.foodnetwork.com/recipes/alton-brown/the-thin-recipe-2013278
-tags: Cookie, Keeper
+tags:
+  - Keeper
+  - Dessert
+  - Cookie
+  - Egg
+  - Baked
+  - Weeknight
 prep_time: 20 min
 cook_time: 15 min
 yield: 2.5 dozen

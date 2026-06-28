@@ -10,7 +10,12 @@ cook_time:
 total_time:
 yield:
 source:
-tags: Asian, NotTried, Entree, Beef
+tags:
+  - Not Tried
+  - Main
+  - Beef
+  - Slow Cooker
+  - Weekend Project
 
 ingredients:
 

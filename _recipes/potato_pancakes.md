@@ -3,7 +3,12 @@
 layout: recipe
 title: Potato Pancakes
 date: Feb 09 2013 17:11:17
-tags: Side, NotTried
+tags:
+  - Not Tried
+  - Side
+  - Vegetarian
+  - Egg
+  - Weeknight
 image: potato-latkes1.jpg
 imageCredit: https://smittenkitchen.com
 source: Smitten Kitchen - https://smittenkitchen.com/2008/12/potato-pancakes-even-better/ 

@@ -3,7 +3,14 @@
 layout: recipe
 title: Jambalaya Soup - Iowa Girl Eats
 date: Sep 19 2016 15:02:35
-tags: Pork, Soup, Chicken, NotTried
+tags:
+  - Not Tried
+  - Soup
+  - American
+  - Chicken
+  - Pork
+  - One Pan
+  - Weeknight
 source: http://iowagirleats.com/2016/09/19/jambalaya-soup
 recipeYield: 8
 image: Jambalaya-Soup-iowagirleats-02.jpg

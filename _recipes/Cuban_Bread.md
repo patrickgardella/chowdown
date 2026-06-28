@@ -7,7 +7,12 @@ imagecredit: https://www.allrecipes.com/recipe/256967/chef-johns-cuban-bread/
 prep_time: 25 min
 cook_time: 20 min
 total_time: 12 hrs 15 min
-tags: Bread, NotTried
+tags:
+  - Not Tried
+  - Side
+  - Vegetarian
+  - Baked
+  - Weekend Project
 yield: 12
 date: January 26 2020
 

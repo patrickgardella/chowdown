@@ -10,7 +10,15 @@ cook_time:
 total_time:
 yield:
 source:
-tags: Dessert, Italian, NotTried, Cookie
+tags:
+  - Not Tried
+  - Dessert
+  - Cookie
+  - Italian
+  - Egg
+  - Vegetarian
+  - Baked
+  - Entertaining
 
 ingredients:
 - 10 Oz Almond Paste

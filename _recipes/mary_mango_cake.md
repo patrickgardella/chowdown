@@ -7,7 +7,13 @@ imagecredit: https://www.southernliving.com/recipes/mango-cake
 prep_time: 25 min
 cook_time: 55 min
 total_time: 1 hrs 25 min
-tags: Dessert, Cake, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Cake
+  - Egg
+  - Vegetarian
+  - Baked
 yield: 14
 
 ingredients:

@@ -7,7 +7,13 @@ imagecredit: http://www.seasonsandsuppers.ca/indian-spiced-chicken-stew
 prep_time: 15 min
 cook_time: 2 hours
 total_time: 2 hours 15 min
-tags: Indian, Entree, Soup, Chicken, NotTried
+tags:
+  - Not Tried
+  - Main
+  - Indian
+  - Chicken
+  - Weekend Project
+  - Entertaining
 yield: 8 servings
 date: November 1 2014
 

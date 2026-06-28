@@ -3,7 +3,12 @@
 layout: recipe
 title: Polenta
 date: Jun 05 2013 15:23:10
-tags: Italian, Side
+tags:
+  - Weeknight
+  - Vegetarian
+  - One Pan
+  - Italian
+  - Side
 recipeYield: 4
 prepTime: 5M
 cookTime: 25M

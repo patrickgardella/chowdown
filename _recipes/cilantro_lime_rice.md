@@ -10,7 +10,11 @@ cook_time: 45m
 total_time: 50m
 yield: 3 servings
 source:
-tags: Side
+tags:
+  - Side
+  - Vegetarian
+  - One Pan
+  - Weeknight
 
 ingredients:
 - 3 c water

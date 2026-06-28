@@ -7,7 +7,12 @@ imagecredit: https://www.foodandwine.com/recipes/garlicky-roast-pork-shoulder
 prep_time: 45 min
 cook_time: 7 hrs
 total_time: 8 hrs
-tags: Pork, Entree, Keeper
+tags:
+  - Keeper
+  - Main
+  - Baked
+  - Pork
+  - Weekend Project
 yield: 10 servings
 date: August 1 2019
 

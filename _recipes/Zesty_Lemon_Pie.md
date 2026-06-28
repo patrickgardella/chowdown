@@ -10,7 +10,13 @@ cook_time:
 total_time: 6 hrs 25 min
 yield: 8 servings
 source:
-tags: Dessert, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Pie
+  - Egg
+  - Baked
+  - Weekend Project
 
 ingredients:
 - 1 cup graham cracker crumbs (about 8 crackers)

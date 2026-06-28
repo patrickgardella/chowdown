@@ -7,7 +7,13 @@ imagecredit: https://smittenkitchen.com/2019/09/cinnamon-sugar-scones/
 prep_time: 15 min
 cook_time: 15 min
 total_time: 30 min
-tags: Bread, Breakfast, NotTried
+tags:
+  - Not Tried
+  - Breakfast
+  - Egg
+  - Vegetarian
+  - Baked
+  - Weeknight
 yield: 6 pieces
 date: September 29 2019
 

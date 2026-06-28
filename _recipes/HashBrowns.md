@@ -5,7 +5,12 @@ title: Crispy Hash Browns
 prep_time: 15 min
 cook_time: 15 min
 total_time: 30 min
-tags: Breakfast
+tags:
+  - Breakfast
+  - American
+  - Vegetarian
+  - One Pan
+  - Weeknight
 yield: 4 servings
 date: April 7 2019
 

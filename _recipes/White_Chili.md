@@ -7,7 +7,12 @@ imagecredit: Grandma
 prep_time: overnight
 cook_time: 4 hours
 total_time: long time
-tags: Chicken, Keeper, Mexican, Soup
+tags:
+  - Keeper
+  - Soup
+  - Mexican
+  - Chicken
+  - Slow Cooker
 yield: 8 servings 
 date: January 14 2013
 

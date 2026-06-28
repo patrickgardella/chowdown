@@ -10,7 +10,11 @@ cook_time:
 total_time:
 yield:
 source:
-tags: Dessert
+tags:
+  - Dessert
+  - Vegetarian
+  - Baked
+  - Weeknight
 
 ingredients:
 

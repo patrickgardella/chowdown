@@ -7,7 +7,13 @@ imagecredit: https://www.gimmesomeoven.com/thai-basil-beef-noodle-stir-fry/
 prep_time: 10 min
 cook_time: 15 min
 total_time: 25 min
-tags: Thai, Entree, Beef, Keeper
+tags:
+  - Keeper
+  - Main
+  - Thai
+  - Beef
+  - One Pan
+  - Weeknight
 yield: 4 servings
 date: July 11 2019
 

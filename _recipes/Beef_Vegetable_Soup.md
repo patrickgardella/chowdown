@@ -10,6 +10,7 @@ Servings: 6
 tags:
   - Soup
   - Beef
+  - Weekend Project
 
 ingredients:
   - 2 Tbsp vegetable oil

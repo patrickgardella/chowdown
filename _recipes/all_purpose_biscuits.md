@@ -7,7 +7,12 @@ imagecredit: https://cooking.nytimes.com/recipes/1013741-all-purpose-biscuits
 prep_time: 15 min
 cook_time: 15 min
 total_time: 1 hr
-tags: Bread, Keeper
+tags:
+  - Keeper
+  - Breakfast
+  - American
+  - Vegetarian
+  - Baked
 yield: 12
 
 ingredients:

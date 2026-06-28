@@ -10,7 +10,12 @@ cook_time:
 total_time:
 yield:
 source:
-tags: Cookie
+tags:
+  - Dessert
+  - Cookie
+  - Egg
+  - Baked
+  - Weeknight
 
 ingredients:
 - 1 c sugar

@@ -4,7 +4,12 @@ layout: recipe
 title:  "Banana Bread"
 image: banana-bread.jpg
 imagecredit: https://flic.kr/p/7HZmzn
-tags: Breakfast, Bread
+tags:
+  - Breakfast
+  - American
+  - Vegetarian
+  - Baked
+  - Weeknight
 
 ingredients:
 - 4 bananas

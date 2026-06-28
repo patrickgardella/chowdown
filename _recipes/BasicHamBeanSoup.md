@@ -7,7 +7,13 @@ imagecredit: http://allrecipes.com/recipe/17628/basic-ham-and-bean-soup/
 prep_time: 30 min
 cook_time: 90 min
 total_time: 2 hrs
-tags: Soup, Pork, Keeper
+tags:
+  - Keeper
+  - Soup
+  - American
+  - Pork
+  - One Pan
+  - Weekend Project
 yield: 8 servings
 date: May 1 2016
 

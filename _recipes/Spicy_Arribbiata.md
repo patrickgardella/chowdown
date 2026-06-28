@@ -6,7 +6,12 @@ prep_time: 10 mins
 cook_time: 30 mins
 image: Arrabbiata-Sauce-Recipe-1.jpg
 imagecredit: https://www.gimmesomeoven.com/spicy-arrabbiata-sauce/
-tags: Sauce, Italian
+tags:
+  - Sauce
+  - Italian
+  - Vegetarian
+  - One Pan
+  - Weeknight
 date: February 17 2019
 
 ingredients:

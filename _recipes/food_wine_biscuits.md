@@ -7,7 +7,12 @@ imagecredits: https://www.foodandwine.com/slideshows/best-biscuits-us
 prep_time:
 cook_time: 
 yield: 12 biscuits
-tags: Bread
+tags:
+  - Side
+  - American
+  - Vegetarian
+  - Baked
+  - Weeknight
 
 ingredients:
 - 1 1/2 cups all-purpose flour

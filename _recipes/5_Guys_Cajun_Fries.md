@@ -10,7 +10,12 @@ cook_time:
 total_time:
 yield:
 source:
-tags: Southern, SideDish, NotTried
+tags:
+  - Not Tried
+  - Side
+  - American
+  - Vegetarian
+  - Weeknight
 
 ingredients:
 

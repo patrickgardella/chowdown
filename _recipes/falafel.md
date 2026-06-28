@@ -3,7 +3,12 @@
 layout: recipe
 title: Falafel
 date: Dec 14 2018 18:04:00
-tags: MiddleEastern, Keeper 
+tags:
+  - Keeper
+  - Main
+  - Middle Eastern
+  - Vegetarian
+  - Weekend Project
 recipeYield: Makes 19 falafel fritters (1.5 T cookie scoop), for 4 to 6 pitas sandwiches
 prepTime: 24H
 cookTime: 30M

@@ -10,7 +10,12 @@ cook_time:
 total_time:
 yield:
 source:
-tags: NotTried, Sauce
+tags:
+  - Not Tried
+  - Sauce
+  - American
+  - Vegetarian
+  - No Cook
 
 ingredients:
 

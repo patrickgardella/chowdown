@@ -3,7 +3,12 @@
 layout: recipe
 title: Everyday Pancakes
 date: Nov 16 2018 00:30:14
-tags: Keeper, Breakfast
+tags:
+  - Keeper
+  - Breakfast
+  - Egg
+  - One Pan
+  - Weeknight
 recipeYield: 4 to 6 servings
 totalTime: 20 minutes
 image: EverydayPancakes.jpg

@@ -10,7 +10,12 @@ cook_time: 10 min
 total_time: 15 min
 yield:
 source: https://savorysweetlife.com/the-pioneer-womans-black-heels-to-tractor-wheels-and-asian-inspired-flat-iron-steak-recipe/ 
-tags: NotTried, Asian, Beef
+tags:
+  - Not Tried
+  - Main
+  - Beef
+  - Grilled
+  - Weeknight
 
 ingredients:
 - ½ cup Soy Sauce

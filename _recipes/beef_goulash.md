@@ -7,7 +7,11 @@ imagecredit: https://thetakeout.com/recipe-oma-beef-goulash-1832468499
 prep_time: 10 min
 cook_time: 1 hr
 total_time: 1 hr 10 min
-tags: Beef, Entree, NotTried
+tags:
+  - Not Tried
+  - Main
+  - Beef
+  - Weeknight
 yield: 4
 date: 17 May 2019
 

@@ -7,7 +7,10 @@ imagecredit: https://www.gimmesomeoven.com/cajun-seasoning/
 prep_time: 5 min
 cook_time: 0 min
 total_time: 5 min
-tags: Spice
+tags:
+  - Sauce
+  - Vegetarian
+  - No Cook
 yield: 
 date: 03/02/2019
 

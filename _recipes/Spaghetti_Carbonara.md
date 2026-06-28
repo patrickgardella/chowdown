@@ -3,7 +3,13 @@
 layout: recipe
 title: The Perfect Spaghetti Carbonara
 date: Apr 07 2018 10:39:39
-tags: Entree, Italian
+tags:
+  - Main
+  - Italian
+  - Egg
+  - Pork
+  - One Pan
+  - Weeknight
 source: What's Gaby Cooking
 image: Carbonara.jpg
 imageCredit: https://whatsgabycooking.com/about-2/

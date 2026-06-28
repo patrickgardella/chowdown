@@ -8,7 +8,13 @@ prep_time: 25 min
 cook_time: 52 min
 total_time: 4 hrs 10 min
 yield: 32
-tags: Dessert, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Cookie
+  - Vegetarian
+  - Baked
+  - Weekend Project
 
 ingredients:
 - 6 cups (26 oz.) fresh or thawed frozen raspberries 

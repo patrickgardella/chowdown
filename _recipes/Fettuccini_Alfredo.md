@@ -3,7 +3,13 @@
 layout: recipe
 title: "Fettuccini Alfredo"
 date: Jan 14 2013 14:30:17
-tags: Pasta, Entree, Keeper
+tags:
+  - Keeper
+  - Main
+  - Italian
+  - Vegetarian
+  - One Pan
+  - Weeknight
 image: 5443715086_b2aac27ae0_z.jpg 
 imagecredit: https://flic.kr/p/9i3sQE
 source: http://www.cdkitchen.com/recipes/recs/412/Alfredo_Sauce38336.shtml

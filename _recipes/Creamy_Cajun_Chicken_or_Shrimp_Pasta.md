@@ -3,7 +3,13 @@
 layout: recipe
 title: Creamy Cajun Chicken Or Shrimp Pasta
 date: Feb 09 2013 16:13:03
-tags: Entree, Chicken, Keeper, Seafood
+tags:
+  - Keeper
+  - Main
+  - Chicken
+  - Seafood
+  - One Pan
+  - Weeknight
 prep_time: 10 min
 cook_time: 15 min
 total_time: 25 min

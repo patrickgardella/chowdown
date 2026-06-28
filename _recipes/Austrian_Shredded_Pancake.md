@@ -7,7 +7,13 @@ imagecredit: https://smittenkitchen.com/2019/05/austrian-torn-fluffy-pancake/
 prep_time: 25 min
 cook_time: 5 min
 total_time: 30 min
-tags: Breakfast, Bread, NotTried
+tags:
+  - Not Tried
+  - Breakfast
+  - Egg
+  - Vegetarian
+  - One Pan
+  - Weekend Project
 yield: 2 main 
 date: July 1 2019
 

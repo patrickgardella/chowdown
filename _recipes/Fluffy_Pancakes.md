@@ -3,7 +3,13 @@
 layout: recipe
 title: "Fluffy Pancakes"
 date: Mar 06 2016 11:50:36
-tags: Keeper, Breakfast
+tags:
+  - Keeper
+  - Breakfast
+  - Vegetarian
+  - Egg
+  - One Pan
+  - Weeknight
 source: kris
 image: fluffypancakes.jpg
 imageCredit: https://www.allrecipes.com/cook/7762014/

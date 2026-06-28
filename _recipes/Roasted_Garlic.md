@@ -7,7 +7,11 @@ imagecredit:
 prep_time: 5 min
 cook_time: 60 min
 total_time: 65 min
-tags: Keeper
+tags:
+  - Keeper
+  - Sauce
+  - Vegetarian
+  - Baked
 yield: 1 clove
 date: August 3 2019
 

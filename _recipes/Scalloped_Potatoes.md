@@ -7,7 +7,12 @@ imagecredit: https://www.thechunkychef.com/garlic-parmesan-cheesy-scalloped-pota
 prep_time: 20 min
 cook_time: 1 hr 30 min
 total_time: 1 hr 50 min
-tags: Side
+tags:
+  - Side
+  - Vegetarian
+  - Baked
+  - One Pan
+  - Entertaining
 yield: 8 servings 
 date: January 2 2020 
 

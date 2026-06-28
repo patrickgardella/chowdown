@@ -3,7 +3,11 @@
 layout: recipe
 title: Cottage Cheese Pancakes
 date: May 12 2017 14:35:58
-tags: Breakfast
+tags:
+  - Breakfast
+  - Vegetarian
+  - Egg
+  - Weeknight
 image: cottagecheesepancakes.jpg
 imageCredit: https://smittenkitchen.com/
 source: https://smittenkitchen.com/2008/11/cottage-cheese-pancakes/

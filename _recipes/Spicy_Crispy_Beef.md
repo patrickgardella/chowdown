@@ -7,7 +7,13 @@ imagecredit: http://allrecipies.com/
 prep_time: 1 hour
 cook_time: 30 min
 total_time: 1 hour 30 min
-tags: Beef, Chinese, Entree, Keeper
+tags:
+  - Keeper
+  - Main
+  - Chinese
+  - Beef
+  - One Pan
+  - Weeknight
 yield: 6 servings
 date:  January 14 2013
 

@@ -10,7 +10,12 @@ cook_time:
 total_time: 1 hour
 yield: 6 - 8 biscuits
 source:
-tags: Bread
+tags:
+  - American
+  - Baked
+  - Side
+  - Vegetarian
+  - Weeknight
 
 ingredients:
 - 2 cups all-purpose flour, plus more for dusting

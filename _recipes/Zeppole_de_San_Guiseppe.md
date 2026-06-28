@@ -10,7 +10,14 @@ cook_time:
 total_time:
 yield: about 12 (2-1/2 inch) zeppoles
 source:
-tags: Dessert, NotTried, Italian
+tags:
+  - Not Tried
+  - Dessert
+  - Cake
+  - Italian
+  - Egg
+  - Baked
+  - Weekend Project
 
 ingredients: 
 - 1 cup water

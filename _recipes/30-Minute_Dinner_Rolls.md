@@ -12,7 +12,11 @@ yield: 12 rolls
 source: http://realmomkitchen.com/20/30-minute-rolls/)
 tags:
   - Not Tried
-  - Bread
+  - Side
+  - Egg
+  - Vegetarian
+  - Baked
+  - Weeknight
 
 ingredients:
 

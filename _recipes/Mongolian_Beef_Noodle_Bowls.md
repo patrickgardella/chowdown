@@ -3,7 +3,13 @@
 layout: recipe
 title: Mongolian Beef Noodle Bowls
 date: Jul 13 2016 12:05:48
-tags: NotTried, Beef, Entree
+tags:
+  - Not Tried
+  - Main
+  - Chinese
+  - Beef
+  - One Pan
+  - Weeknight
 recipeYield: 4 servings
 image: Mongolian-Beef-Noodle-Bowls-iowagirleats-05.jpg
 imageCredit: https://iowagirleats.com/author/admin/

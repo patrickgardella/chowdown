@@ -2,7 +2,14 @@
 
 layout: recipe
 title: Crispy Rice and Egg Bowl with Ginger-Scallion Vinaigrette
-tags: NotTried, Entree
+tags:
+  - Not Tried
+  - Main
+  - Japanese
+  - Egg
+  - Vegetarian
+  - One Pan
+  - Weeknight
 image: crispy-rice-and-egg-bowl.jpg
 imagecredit: https://smittenkitchen.com/2019/01/crispy-rice-and-egg-bowl-with-ginger-scallion-vinaigrette/
 recipeYield: 4 servings

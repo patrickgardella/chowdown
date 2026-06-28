@@ -10,7 +10,13 @@ cook_time:
 total_time:
 yield: 4
 source:
-tags: Chicken, Asian, NotTried
+tags:
+  - Not Tried
+  - Appetizer
+  - Thai
+  - Chicken
+  - One Pan
+  - Weeknight
 
 ingredients:
 

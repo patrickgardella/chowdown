@@ -10,7 +10,12 @@ cook_time:
 total_time:
 yield:
 source:
-tags: Chicken, Latin, NotTried
+tags:
+  - Not Tried
+  - Main
+  - Chicken
+  - One Pan
+  - Weekend Project
 
 ingredients:
 - 3 pounds chicken thighs, cut into small cubes

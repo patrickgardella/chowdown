@@ -10,7 +10,13 @@ cook_time:
 total_time:
 yield:
 source:
-tags: Dessert, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Frozen
+  - Vegetarian
+  - No Cook
+  - Weekend Project
 
 ingredients:
 - 1 sticks butter

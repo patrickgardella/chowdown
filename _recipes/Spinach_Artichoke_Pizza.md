@@ -7,7 +7,13 @@ imagecredit:
 prep_time: 15 min
 cook_time: 15 min
 total_time: 30 min
-tags: Keeper, Italian, Entree
+tags:
+  - Keeper
+  - Main
+  - Italian
+  - Vegetarian
+  - Baked
+  - Weeknight
 yield: 1 pizza
 date: August 3 2019
 

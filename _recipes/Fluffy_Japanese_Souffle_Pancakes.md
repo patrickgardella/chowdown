@@ -7,7 +7,13 @@ imagecredit: https://www.justonecookbook.com/souffle-pancake/
 prep_time: 30 min
 cook_time: 15 min
 total_time: 45 min
-tags: Japanese, Breakfast, NotTried
+tags:
+  - Not Tried
+  - Breakfast
+  - Japanese
+  - Egg
+  - One Pan
+  - Weekend Project
 yield: 3 pancakes
 date: July 21 2019
 

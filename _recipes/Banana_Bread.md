@@ -7,7 +7,15 @@ imagecredit: https://www.simplyrecipes.com/recipes/banana_bread/
 prep_time: 10 min
 cook_time: 55 min
 total_time: 1 hr 5 min
-tags: Bread, Keeper
+tags:
+  - Keeper
+  - Dessert
+  - Cake
+  - American
+  - Vegetarian
+  - Egg
+  - Baked
+  - Weeknight
 yield: 12 slices 
 date: September 8, 2019
 

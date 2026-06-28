@@ -3,7 +3,12 @@
 layout: recipe
 title: Cinnabons Cinnamon Rolls
 date: Nov 23 2017 00:59:59
-tags: Bread, Keeper, Breakfast
+tags:
+  - Keeper
+  - Breakfast
+  - Egg
+  - Baked
+  - Weekend Project
 source: Joanna Cismaru - Jo Cooks
 prepTime: 20M
 cookTime: 20M

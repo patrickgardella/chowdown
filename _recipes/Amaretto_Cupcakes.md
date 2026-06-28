@@ -10,7 +10,15 @@ cook_time:
 total_time:
 yield: 12 cupcakes
 source:
-tags: Dessert, NotTried, Italian
+tags:
+  - Not Tried
+  - Dessert
+  - Cake
+  - Italian
+  - Egg
+  - Vegetarian
+  - Baked
+  - Weekend Project
 
 ingredients: 
 - 1/2 cup unsalted butter, room temperature

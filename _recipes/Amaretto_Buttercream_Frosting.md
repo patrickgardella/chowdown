@@ -9,7 +9,13 @@ cook_time:
 total_time:
 yield: enough for 18 cupcakes
 source:
-tags: Dessert, NotTried, Italian
+tags:
+  - Not Tried
+  - Sauce
+  - Italian
+  - Vegetarian
+  - No Cook
+  - Weeknight
 
 ingredients:
   - 8 tablespoons butter, room temperature

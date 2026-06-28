@@ -7,7 +7,13 @@ imagecredit: https://topsecretrecipes.com/panda-express-mandarin-chicken-copycat
 prep_time: 20 min
 cook_time: 10 min
 total_time: 30 min
-tags: Chinese, NotTried
+tags:
+  - Not Tried
+  - Main
+  - Chinese
+  - Chicken
+  - Grilled
+  - Weeknight
 yield: Serves 2 (large portions)
 date: June 28 2019
 

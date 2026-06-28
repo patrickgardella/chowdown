@@ -3,7 +3,12 @@
 layout: recipe
 title: Crock Pot Sesame Honey Chicken
 date: Jun 23 2013 18:50:40
-tags: Chicken, NotTried
+tags:
+  - Not Tried
+  - Main
+  - Chicken
+  - Slow Cooker
+  - Weekend Project
 image: crock-pot-sesame-honey-chicken-550x403.jpg
 imagecredit: https://www.skinnytaste.com/crock-pot-sesame-honey-chicken/
 source: http://www.skinnytaste.com/2013/02/crock-pot-sesame-honey-chicken.html

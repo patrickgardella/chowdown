@@ -7,7 +7,13 @@ imagecredits: https://www.pepperscale.com/moroccan-harira-soup/
 prep_time: 15 minutes
 cook_time: 2 hours
 serves: 8
-tags: MiddleEastern, Soup, NotTried
+tags:
+  - Not Tried
+  - Soup
+  - Middle Eastern
+  - Vegetarian
+  - One Pan
+  - Weekend Project
 
 ingredients:
 - 2 cans whole peeled tomatoes (28-ounce cans), drained and chopped

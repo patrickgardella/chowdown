@@ -3,7 +3,12 @@
 layout: recipe
 title: New York-Style Pizza Dough
 date: Jul 07 2017 22:41:17  
-tags: Italian, Bread, Entree 
+tags:
+  - Italian
+  - Main
+  - Vegetarian
+  - Baked
+  - Weekend Project
 source: http://www.seriouseats.com/user/profile/Goodeaterkenji
 recipeYield: 3 pies
 prepTime: 30M

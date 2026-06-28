@@ -7,7 +7,13 @@ imagecredit: http://iowagirleats.com/2013/01/21/cheesy-taco-soup/
 prep_time: 0 min
 cook_time: 30 min
 total_time: 30 min
-tags: Soup, Beef, Keeper, Entree
+tags:
+  - Keeper
+  - Soup
+  - Mexican
+  - Beef
+  - One Pan
+  - Weeknight
 yield: 4 servings
 date: December 29 2014
 

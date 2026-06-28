@@ -7,7 +7,14 @@ imagecredit: https://smittenkitchen.com/2019/07/crispy-oven-pulled-pork/
 prep_time: 2 hrs
 cook_time: 6 hrs
 total_time: All day
-tags: Entree,Pork, NotTried
+tags:
+  - Not Tried
+  - Main
+  - American
+  - Pork
+  - Baked
+  - One Pan
+  - Weekend Project
 yield: 10-12
 date: July 1 2019 
 

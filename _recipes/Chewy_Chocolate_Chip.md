@@ -5,7 +5,14 @@ title: Alton Browns Chewy Chocolate Chip Cookie
 source: Alton Brown - https://www.foodnetwork.com/recipes/alton-brown/the-chewy-recipe-1909046
 image: chocolatechipcookie2.jpg
 imageCredit: https://www.handletheheat.com/
-tags: Keeper
+tags:
+  - Keeper
+  - Dessert
+  - Cookie
+  - American
+  - Egg
+  - Baked
+  - Weeknight
 prepTime: 20M
 cookTime: 30M
 totalTime: 1H50M

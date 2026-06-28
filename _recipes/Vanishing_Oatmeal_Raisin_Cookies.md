@@ -7,7 +7,13 @@ imagecredit: Quaker Oats
 prep_time: 20 min
 cook_time: 8 min
 total_time: 40 min
-tags: Dessert, Cookie, Keeper
+tags:
+  - Keeper
+  - Dessert
+  - Cookie
+  - Vegetarian
+  - Baked
+  - Weeknight
 yield: 4 dozen
 date: January 14 2013
 

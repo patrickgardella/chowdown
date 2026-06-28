@@ -10,7 +10,12 @@ cook_time:
 total_time:
 yield:
 source:
-tags: Beef, NotTried
+tags:
+  - Not Tried
+  - Main
+  - Beef
+  - Grilled
+  - Entertaining
 
 ingredients:
 - 4 garlic cloves, coarsely chopped

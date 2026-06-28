@@ -3,7 +3,11 @@
 layout: recipe
 title: Cranberry Sauce
 date: Jan 16 2013 01:00:38
-tags: Side, Salad, Keeper
+tags:
+  - Keeper
+  - Sauce
+  - Vegetarian
+  - Weeknight
 image: Orange-Amaretto-Cranberry-Sauce-3.jpg
 imageCredit: https://thefarmgirlgabs.com/author/missmeliss0330/ 
 

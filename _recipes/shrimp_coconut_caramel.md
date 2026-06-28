@@ -5,7 +5,12 @@ title: Shrimp in Coconut Caramel Sauce
 yield: 4
 prep_time: 35 min
 cook_time: 5 min
-tags: Vietnamese, NotTried, Shrimp, Seafood, Entree
+tags:
+  - Not Tried
+  - Main
+  - Seafood
+  - One Pan
+  - Weeknight
 image: shrimp_coconut_caramel.jpg
 imagecredit: https://www.rachaelraymag.com/recipe/shrimp-coconut-caramel-sauce
 

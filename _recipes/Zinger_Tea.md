@@ -10,7 +10,11 @@ cook_time: 15 min
 total_time: 20 min
 yield: 2 quarts
 source:
-tags: Beverage
+tags:
+  - Drink
+  - Vegetarian
+  - No Cook
+  - Entertaining
 
 ingredients:
 - 4 lemon zinger tea bags

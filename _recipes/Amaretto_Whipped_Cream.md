@@ -9,7 +9,13 @@ cook_time:
 total_time:
 yield: enough for 12 cupcakes
 source:
-tags: Dessert, NotTried, Italian
+tags:
+  - Not Tried
+  - Sauce
+  - Italian
+  - Vegetarian
+  - No Cook
+  - Weeknight
 
 ingredients:
   - 1 cup heavy cream

@@ -3,7 +3,13 @@
 layout: recipe
 title: Carrabba's Spicy Sausage Lentil Soup
 date: Nov 08 2014 17:26:59
-tags: Pork, Soup, Keeper
+tags:
+  - Keeper
+  - Soup
+  - Italian
+  - Pork
+  - Vegetarian
+  - Weeknight
 cooktime: 1 hour 15 minutes
 source: Top Secret Restaurant Recipes 3" by Todd Wilbur.
 recipeYields: 12 to 13 cups

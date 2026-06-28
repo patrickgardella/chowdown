@@ -10,7 +10,13 @@ cook_time:
 total_time:
 yield: 6 servings
 source:
-tags: Entree, Chicken, NotTried
+tags:
+  - Not Tried
+  - Main
+  - Chicken
+  - Mediterranean
+  - One Pan
+  - Weekend Project
 
 ingredients:
 - 1 3-to-4 pound broiler/fryer chicken, cut into eight pieces

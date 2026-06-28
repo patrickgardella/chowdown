@@ -7,7 +7,13 @@ imagecredit: https://www.instructables.com/id/Indian-Garlic-Naan/
 prep_time: 3 hrs
 cook_time: 10 min
 total_time: 3 hrs 10 min
-tags: Indian,Bread,NotTried
+tags:
+  - Not Tried
+  - Side
+  - Indian
+  - Vegetarian
+  - One Pan
+  - Weekend Project
 yield: 12 pieces
 date: December 11 2018
 

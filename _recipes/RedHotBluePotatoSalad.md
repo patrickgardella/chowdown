@@ -7,7 +7,12 @@ imagecredit: https://www.geniuskitchen.com/recipe/red-hot-blue-potato-salad-the-
 prep_time: 15 min
 cook_time: 1 hour
 total_time: 1 hr 15 min
-tags: Salad, Keeper
+tags:
+  - Keeper
+  - Salad
+  - Vegetarian
+  - Egg
+  - Weeknight
 yield: 16 servings
 date: July 7 2019
 

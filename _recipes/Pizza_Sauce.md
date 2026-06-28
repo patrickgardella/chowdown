@@ -7,7 +7,12 @@ imagecredit: https://littlespicejar.com/homemade-pizza-sauce/
 prep_time: 5 min
 cook_time: 30 min
 total_time: 35 min
-tags: Keeper, Entree
+tags:
+  - Keeper
+  - Sauce
+  - Italian
+  - Vegetarian
+  - Weeknight
 yield: 2.25 cups
 date: December 26 2019
 

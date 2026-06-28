@@ -7,7 +7,13 @@ imagecredit:
 prep_time: 30min
 cook_time: 0min
 total_time: 3hrs
-tags: Breakfast, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Cookie
+  - Vegetarian
+  - No Cook
+  - Weeknight
 yield: 12 bars
 date: June 2 2019
 

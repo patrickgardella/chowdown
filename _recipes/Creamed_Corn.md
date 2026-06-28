@@ -7,7 +7,13 @@ imagecredit: https://altonbrown.com/creamed-corn-recipe/
 prep_time: 5 min
 cook_time: 10 min
 total_time: 15 min
-tags: Side, Keeper
+tags:
+  - Side
+  - Keeper
+  - American
+  - Pork
+  - One Pan
+  - Weeknight
 yield: 8 servings 
 date: December 25, 2015
 

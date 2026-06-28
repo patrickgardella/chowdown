@@ -7,7 +7,13 @@ imagecredit: https://www.rachaelraymag.com/recipe/grilled-teriyaki-glazed-salmon
 prep_time: 20 min
 cook_time: 10 min
 total_time: 30 min
-tags: NotTried, Entree, Seafood
+tags:
+  - Not Tried
+  - Main
+  - Japanese
+  - Seafood
+  - Grilled
+  - Weeknight
 yield: 4
 date: August 24 2019
 

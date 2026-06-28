@@ -4,7 +4,12 @@ title: "Shrimp Scampi with Orzo"
 date: 18 March 2023
 image:
 image_credit:
-tags: Seafood, Italian, Main, Quick
+tags:
+  - Main
+  - Italian
+  - Seafood
+  - One Pan
+  - Weeknight
 source: https://cooking.nytimes.com/recipes/1020330-shrimp-scampi-with-orzo
 prep_time: 15 min
 cook_time: 30 min

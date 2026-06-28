@@ -10,7 +10,11 @@ cook_time: 15 min
 total_time: 25 min
 yield: 4-6 servings
 source:
-tags: SideDish, NotTried
+tags:
+  - Not Tried
+  - Side
+  - Vegetarian
+  - Weeknight
 
 ingredients:
 - 3 cups canola oil

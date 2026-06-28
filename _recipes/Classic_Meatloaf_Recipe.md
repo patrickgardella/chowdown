@@ -3,7 +3,14 @@
 layout: recipe
 title: Classic Meatloaf Recipe
 date: Jan 31 2014 22:24:24
-tags: Beef, Entree, Keeper
+tags:
+  - Keeper
+  - Main
+  - Beef
+  - Pork
+  - Baked
+  - American
+  - Weekend Project
 prepTime: 20 minutes
 cookTime: 1 hour, 10 minutes
 recipeYield: Serves 4 to 6, with plenty for leftovers for meatloaf sandwiches.

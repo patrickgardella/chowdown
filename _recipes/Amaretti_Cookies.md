@@ -10,7 +10,14 @@ cook_time:
 total_time:
 yield: 30 cookies
 source: http://www.simplyrecipes.com/recipes/amaretti_cookies/
-tags: Cookie, Italian, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Cookie
+  - Italian
+  - Egg
+  - Vegetarian
+  - Baked
 
 ingredients:
 

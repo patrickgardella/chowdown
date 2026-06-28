@@ -10,7 +10,14 @@ cook_time: 6 hrs
 total_time: 6 hrs 15 min
 yield: 4 servings
 source: https://www.manusmenu.com/ziti-with-neapolitan-meat-ragout
-tags: Pasta, Pork, NotTried, Entree, Italian, Beef
+tags:
+  - Not Tried
+  - Main
+  - Italian
+  - Beef
+  - Pork
+  - One Pan
+  - Weekend Project
 
 ingredients:
 - 615 gms – 17.5 oz. beef muscle I used chuck steak

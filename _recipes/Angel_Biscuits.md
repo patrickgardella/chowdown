@@ -10,7 +10,13 @@ cook_time: 20 min
 total_time: 2 hrs 40 min
 yield: 3.5 dozen
 source:
-tags: Bread, NotTried
+tags:
+  - Not Tried
+  - Breakfast
+  - American
+  - Vegetarian
+  - Baked
+  - Entertaining
 
 ingredients:
 - 1/2 cup warm water (100°F to 110°F)

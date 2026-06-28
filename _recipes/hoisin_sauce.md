@@ -5,7 +5,11 @@ title: Hoisin Sauce
 prepTime: 5M
 cookTime: 5M
 totalTime: 10M
-tags: Chinese, NotTried, Sauce
+tags:
+  - Not Tried
+  - Sauce
+  - Chinese
+  - Vegetarian
 image: Hoisin-Sauce.jpg
 imagecredit: https://www.curiouscuisiniere.com/hoisin-sauce/
 

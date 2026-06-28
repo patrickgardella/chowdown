@@ -7,7 +7,12 @@ imagecredit: What's Gaby Cooking
 prep_time:
 cook_time:
 total_time:
-tags: Thai, NotTried, Chicken
+tags:
+  - Not Tried
+  - Main
+  - Thai
+  - Chicken
+  - Weeknight
 yield: 4 servings
 date: April 21 2019
 

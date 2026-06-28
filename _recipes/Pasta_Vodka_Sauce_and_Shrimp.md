@@ -7,7 +7,11 @@ imagecredit:
 prep_time: 10 min
 cook_time: 30 min
 total_time: 40 min
-tags: Italian, Pasta, Entree
+tags:
+  - Italian
+  - Main
+  - Seafood
+  - Weeknight
 yield: 4
 date: Dec 22, 2019
 

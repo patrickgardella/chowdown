@@ -7,7 +7,14 @@ imagecredit: https://boulderlocavore.com/shortcut-french-cassoulet/
 prep_time: 30 min
 cook_time: 1.25 hrs
 total_time: 1 hr 45 min
-tags: French, NotTried, Entree, Pork
+tags:
+  - Not Tried
+  - Main
+  - French
+  - Chicken
+  - Pork
+  - Baked
+  - Weekend Project
 yield: 8 servings
 date: January 26 2020
 

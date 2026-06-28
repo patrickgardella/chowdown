@@ -7,7 +7,12 @@ imagecredit: http://www.simplyrecipes.com/recipes/how_to_make_perfect_hard_boile
 prep_time: 5 min
 cook_time: 12 min
 total_time: 17 min
-tags: Eggs, Keeper
+tags:
+  - Keeper
+  - Breakfast
+  - Vegetarian
+  - Egg
+  - Weeknight
 yield: As needed
 date: January 26 2014
 

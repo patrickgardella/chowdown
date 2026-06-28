@@ -10,7 +10,12 @@ cook_time:
 total_time:
 yield:
 source:
-tags: Dessert, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Candy
+  - No Cook
+  - Weekend Project
 
 ingredients:
 - 1 pkg (or recipe) of Gum Paste

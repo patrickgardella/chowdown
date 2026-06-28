@@ -7,7 +7,13 @@ imagecredit: https://www.southernliving.com/recipes/lemon-chess-bars
 prep_time: 15 min
 cook_time: 25 min
 total_time: 3 hrs 45 min
-tags: Dessert, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Cookie
+  - Egg
+  - Baked
+  - Entertaining
 yield: 32
 
 ingredients:

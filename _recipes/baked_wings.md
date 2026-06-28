@@ -4,7 +4,13 @@ layout: recipe
 title: Baked Buffalo Wings
 image: baked_wings.jpg
 imagecredit: https://smittenkitchen.com
-tags: Chicken, Entree, NotTried
+tags:
+  - Not Tried
+  - Appetizer
+  - American
+  - Chicken
+  - Baked
+  - Entertaining
 date: 2019-02-17
 
 ingredients:

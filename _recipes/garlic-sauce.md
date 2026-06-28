@@ -4,7 +4,11 @@ layout: recipe
 title: Papa John's Garlic Sauce
 image: garlic-sauce.jpg
 imagecredit: https://skillet.lifehacker.com/this-diy-garlic-sauce-is-way-better-than-papa-johns-1826018011
-tags: Sauce, NotTried
+tags:
+  - Not Tried
+  - Sauce
+  - Vegetarian
+  - No Cook
 
 ingredients:
 - 1 Knorr vegetable bouillon cube

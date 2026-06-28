@@ -7,7 +7,13 @@ imagecredit: https://spicysouthernkitchen.com/southern-style-green-beans/
 prep_time: 10 min
 cook_time: 2 hours
 total_time: 2 hours 10 min
-tags: Side, Keeper
+tags:
+  - Keeper
+  - Side
+  - American
+  - Pork
+  - One Pan
+  - Weekend Project
 yield: 6 servings
 date: November 26, 2015
 

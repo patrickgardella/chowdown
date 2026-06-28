@@ -6,7 +6,12 @@ yield: 4
 date: 2019-02-24
 image: lamb_ragu.jpg
 imagecredit: https://www.rachaelraymag.com/recipe/white-lamb-ragu
-tags: Lamb, Entree, NotTried, Italian
+tags:
+  - Not Tried
+  - Main
+  - Italian
+  - Lamb
+  - Weekend Project
 
 ingredients:
 - 2 tbsp. olive oil

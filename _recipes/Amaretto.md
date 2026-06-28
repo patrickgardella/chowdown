@@ -10,7 +10,12 @@ cook_time: 30 min
 total_time: 1 hr
 yield: 1 quart
 source: http://m.allrecipes.com/recipe/17770/amaretto/
-tags: Italian, Beverage, NotTried
+tags:
+  - Not Tried
+  - Drink
+  - Italian
+  - Vegetarian
+  - Weeknight
 
 ingredients:
 

@@ -10,7 +10,11 @@ cook_time: 30 minutes
 total_time: 35 minutes
 yield: 4 servings
 source:
-tags: Beef, Entree
+tags:
+  - Main
+  - Beef
+  - One Pan
+  - Weeknight
 
 ingredients:
 

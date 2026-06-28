@@ -6,7 +6,13 @@ prep_time: 30 min
 date: 2019-02-19
 image: homemade-harissa-150x150.jpg
 imagecredits: https://www.pepperscale.com/homemade-harissa/
-tags: MiddleEastern, NotTried
+tags:
+  - Not Tried
+  - Sauce
+  - Middle Eastern
+  - Vegetarian
+  - No Cook
+  - Weeknight
 
 ingredients:
 - 4 ounces dried chilies

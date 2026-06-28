@@ -7,7 +7,13 @@ imagecredit: https://www.rachaelraymag.com/recipe/miso-chicken-meatballs-with-se
 prep_time: 25 min
 cook_time: 15 min
 total_time: 40 min
-tags: Korean, Entree, NotTried
+tags:
+  - Not Tried
+  - Main
+  - Korean
+  - Chicken
+  - Baked
+  - Weeknight
 yield: 4 servings
 date: June 30 2019
 

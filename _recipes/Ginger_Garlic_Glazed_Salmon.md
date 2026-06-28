@@ -7,7 +7,12 @@ imagecredit: Rachel Ray Sept 2019
 prep_time: 15 min
 cook_time: 15 min
 total_time: 30 min
-tags: NotTried, Entree, Seafood
+tags:
+  - Not Tried
+  - Main
+  - Seafood
+  - Baked
+  - Weeknight
 yield: 4
 date: August 24 2019
 

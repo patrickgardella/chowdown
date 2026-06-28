@@ -10,7 +10,11 @@ cook_time: 30 minutes
 total_time: 50 minutes
 yield: 6 servings
 source:
-tags: Beef, Entree
+tags:
+  - Main
+  - Beef
+  - Baked
+  - Weeknight
 
 ingredients:
 

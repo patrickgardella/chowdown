@@ -10,7 +10,13 @@ cook_time: 10 min
 total_time: 3 hrs
 yield: 6 servings
 source:
-tags: Mexican, Entree, Keeper
+tags:
+  - Keeper
+  - Main
+  - Mexican
+  - Beef
+  - Grilled
+  - Weekend Project
 
 ingredients:
 - 1/4 cup olive oil

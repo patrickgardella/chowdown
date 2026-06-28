@@ -10,7 +10,13 @@ cook_time:
 total_time:
 yield: 15 cookies
 source:
-tags: Dessert, Cookie, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Cookie
+  - Vegetarian
+  - Baked
+  - Weeknight
 
 ingredients:
 - 1 c (100g)  oats

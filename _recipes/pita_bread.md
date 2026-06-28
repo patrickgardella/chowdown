@@ -3,7 +3,13 @@
 layout: recipe
 title: Pita Bread
 date: Dec 14 2018 18:04:42
-tags: Bread, NotTried
+tags:
+  - Not Tried
+  - Side
+  - Middle Eastern
+  - Vegetarian
+  - Baked
+  - Weekend Project
 source: https://smittenkitchen.com/2009/03/pita-bread/
 image: pita-bread.jpg
 imageSource: https://smittenkitchen.com/about/

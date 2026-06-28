@@ -7,7 +7,13 @@ imagecredit:
 prep_time: 10 min
 cook_time: 10 min
 total_time: 3 hours
-tags: Chicken, Keeper, Thai
+tags:
+  - Keeper
+  - Appetizer
+  - Thai
+  - Chicken
+  - Grilled
+  - Entertaining
 yield: 2 servings
 date: January 1 2000
 

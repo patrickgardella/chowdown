@@ -3,7 +3,13 @@
 layout: recipe
 title: Easy Crusty French Bread
 date: Dec 15 2018 21:44:07
-tags: Bread, Keeper
+tags:
+  - Keeper
+  - Side
+  - French
+  - Vegetarian
+  - Baked
+  - Weekend Project
 source: http://www.lifeasastrawberry.com/easy-crusty-french-bread/
 prepTime: 1 hour 30 mins
 cookTime: 45 mins

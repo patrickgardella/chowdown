@@ -3,7 +3,12 @@
 layout: recipe
 title: Ultimate Pizza Sauce
 date: Jun 04 2018 23:27:36
-tags: Sauce, Italian, Pasta, Keeper 
+tags:
+  - Keeper
+  - Sauce
+  - Italian
+  - Vegetarian
+  - One Pan
 prepTime: 5M
 cookTime: 1H20M
 source: https://www.geniuskitchen.com/amp/recipe/ultimate-pizza-sauce-114392

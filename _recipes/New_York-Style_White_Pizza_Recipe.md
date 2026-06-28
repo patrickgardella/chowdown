@@ -3,7 +3,13 @@
 layout: recipe
 title: New York-Style White Pizza Recipe  
 date: Jul 04 2017 19:00:32  
-tags: Sauce, Italian, Keeper
+tags:
+  - Keeper
+  - Main
+  - Baked
+  - Italian
+  - Vegetarian
+  - Entertaining
 image: whitePizza.jpg 
 imageCredit: http://flickr.com/photos/thepizzareview/2341886253/)
 

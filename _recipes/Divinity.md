@@ -7,7 +7,12 @@ imagecredit: https://houseofnasheats.com/old-fashioned-divinity-candy-recipe/
 prep_time: 5 min
 cook_time: 15 min
 total_time: 20 min
-tags: Dessert, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Candy
+  - Egg
+  - Weekend Project
 yield:  enough
 date: Dec 22, 2019
 

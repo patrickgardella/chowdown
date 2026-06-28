@@ -10,7 +10,14 @@ cook_time:
 total_time:
 yield: 3-4 servings
 source:
-tags: Entree, NotTried, Asian
+tags:
+  - Not Tried
+  - Main
+  - Thai
+  - Seafood
+  - Egg
+  - One Pan
+  - Weeknight
 
 ingredients:
 - 1/2lb rice noodles

@@ -7,7 +7,13 @@ imagecredits: https://whatsgabycooking.com/cherry-chocolate-chip-cookies/
 yield: 24
 cook_time: 10 min
 prep_time: 10 min
-tags: Cookie, NotTried
+tags:
+  - Not Tried
+  - Dessert
+  - Cookie
+  - Egg
+  - Vegetarian
+  - Baked
 
 ingredients:
 - 8 oz unsalted butter, softened

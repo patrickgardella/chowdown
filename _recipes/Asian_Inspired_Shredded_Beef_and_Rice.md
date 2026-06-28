@@ -10,7 +10,13 @@ cook_time:
 total_time:
 yield:
 source:
-tags: NotTried, Asian, Beef
+tags:
+  - Not Tried
+  - Main
+  - Chinese
+  - Beef
+  - Slow Cooker
+  - Weekend Project
 
 ingredients:
 - 2 to 2 1/2 lbs chuck roast

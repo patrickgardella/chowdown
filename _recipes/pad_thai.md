@@ -7,7 +7,14 @@ image: pad_thai.jpg
 imagecredit: https://www.gimmesomeoven.com/about/
 prep_time: 20 mins
 cook_time: 25 min
-tags: Thai, Entree, NotTried
+tags:
+  - Not Tried
+  - Main
+  - Thai
+  - Chicken
+  - Egg
+  - One Pan
+  - Weeknight
 date: 2019-02-17
 
 ingredients: 

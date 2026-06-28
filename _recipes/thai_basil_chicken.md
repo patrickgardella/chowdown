@@ -4,7 +4,13 @@ layout: recipe
 title: Spicy Thai Basil Chicken (Pad Krapow Gai)
 image: thaibasilchicken.jpg 
 imagecredit: https://www.allrecipes.com/cook/foodwisheswithchefjohn/
-tags: Thai, Chicken, Entree, Keeper
+tags:
+  - Keeper
+  - Main
+  - Thai
+  - Chicken
+  - One Pan
+  - Weeknight
 date: February 17 2019
 prep_time: 15 min
 cook_time: 10 min

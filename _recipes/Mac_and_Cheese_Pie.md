@@ -10,7 +10,13 @@ cook_time: 40 min
 total_time: 1 hr 40 min
 yield: 1 pie
 source:
-tags: Entree, Keeper
+tags:
+  - Keeper
+  - Main
+  - American
+  - Vegetarian
+  - Baked
+  - Weekend Project
 
 ingredients:
 - 1.25 cups all purpose flour (6.25 oz)
