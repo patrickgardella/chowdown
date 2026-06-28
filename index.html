@@ -1,24 +1,68 @@
 ---
 layout: default
-title: Recipes Listed By Tag
+title: Recipes
 ---
 
-{% assign recipes_tags = site.recipes | map: 'tags' | join: ',' | split: ',' | uniq | sort %}
-{% assign sorted_recipes = site.recipes | sort: 'title' %}
+<div class="container px2">
 
-<div id="tags">
-        {% for tag in recipes_tags %}
-        {% if tag == '' %}
-            {% continue %}
-        {% endif %}
-        <h4 class="ml4">{{ tag }}</h4>
-        <ul class="ml4">
-                {% for recipe in sorted_recipes %}
-                    {% assign tags_array = recipe.tags | join: ',' | split: ',' %}
-                    {% if tags_array contains tag %}
-                <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
-                    {% endif %}
-                {% endfor %}
-        </ul>
+  <div class="clearfix mt3 mb2">
+    <div class="left">
+      <span class="gray h6 mr1">Status:</span>
+      {% for tag in site.data.taxonomy.status.tags %}
+        <a href="/tags/{{ tag | slugify }}/" class="mr2">{{ tag }}</a>
+      {% endfor %}
+    </div>
+    <div class="right">
+      <a href="/search" class="h6">Search →</a>
+    </div>
+  </div>
+
+  <hr class="mt1 mb3">
+
+  <div class="clearfix mxn2">
+
+    <div class="sm-col sm-col-3 px2">
+      <h4 class="blue mt0 mb1">{{ site.data.taxonomy.course.label }}</h4>
+      <ul class="mb3">
+        {% for tag in site.data.taxonomy.course.tags %}
+        <li><a href="/tags/{{ tag | slugify }}/">{{ tag }}</a></li>
         {% endfor %}
+      </ul>
+    </div>
+
+    <div class="sm-col sm-col-3 px2">
+      <h4 class="blue mt0 mb1">{{ site.data.taxonomy.cuisine.label }}</h4>
+      <ul class="mb3">
+        {% for tag in site.data.taxonomy.cuisine.tags %}
+        <li><a href="/tags/{{ tag | slugify }}/">{{ tag }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="sm-col sm-col-3 px2">
+      <h4 class="blue mt0 mb1">{{ site.data.taxonomy.protein.label }}</h4>
+      <ul class="mb3">
+        {% for tag in site.data.taxonomy.protein.tags %}
+        <li><a href="/tags/{{ tag | slugify }}/">{{ tag }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <div class="sm-col sm-col-3 px2">
+      <h4 class="blue mt0 mb1">{{ site.data.taxonomy.method.label }}</h4>
+      <ul class="mb2">
+        {% for tag in site.data.taxonomy.method.tags %}
+        <li><a href="/tags/{{ tag | slugify }}/">{{ tag }}</a></li>
+        {% endfor %}
+      </ul>
+      <h4 class="blue mt2 mb1">{{ site.data.taxonomy.occasion.label }}</h4>
+      <ul>
+        {% for tag in site.data.taxonomy.occasion.tags %}
+        <li><a href="/tags/{{ tag | slugify }}/">{{ tag }}</a></li>
+        {% endfor %}
+      </ul>
+    </div>
+
+  </div>
+
 </div>

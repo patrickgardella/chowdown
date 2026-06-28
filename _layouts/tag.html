@@ -1,0 +1,75 @@
+---
+layout: default
+---
+<div class="container px2">
+
+  <div class="mt3 mb2">
+    <a href="{{ '/' | relative_url }}" class="h6">← All Recipes</a>
+  </div>
+
+  <h2 class="mt1 mb3">{{ page.tag }}</h2>
+
+  {% comment %} Collect recipes matching this tag, handling both old comma-string and new list formats {% endcomment %}
+  {% assign tag_recipes = "" | split: "" %}
+  {% for recipe in site.recipes %}
+    {% assign recipe_tags = recipe.tags | join: ',' | split: ',' %}
+    {% for t in recipe_tags %}
+      {% assign clean_t = t | strip %}
+      {% if clean_t == page.tag %}
+        {% assign tag_recipes = tag_recipes | push: recipe %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+  {% assign tag_recipes = tag_recipes | sort: "title" %}
+
+  {% if tag_recipes.size == 0 %}
+    <p class="gray">No recipes tagged yet.</p>
+
+  {% elsif page.tag == "Dessert" %}
+    {% comment %} Group by dessert sub-type, list uncategorized at the end {% endcomment %}
+    {% assign dessert_types = site.data.taxonomy.dessert_types.tags %}
+    {% assign shown_urls = "" | split: "" %}
+
+    {% for subtype in dessert_types %}
+      {% assign subtype_recipes = "" | split: "" %}
+      {% for recipe in tag_recipes %}
+        {% assign rtags = recipe.tags | join: ',' | split: ',' | map: 'strip' %}
+        {% if rtags contains subtype %}
+          {% assign subtype_recipes = subtype_recipes | push: recipe %}
+          {% assign shown_urls = shown_urls | push: recipe.url %}
+        {% endif %}
+      {% endfor %}
+      {% if subtype_recipes.size > 0 %}
+        <h4 class="blue mt3 mb1">{{ subtype }}</h4>
+        <ul class="tag-recipe-list">
+          {% for recipe in subtype_recipes %}
+          <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+
+    {% assign other_desserts = "" | split: "" %}
+    {% for recipe in tag_recipes %}
+      {% unless shown_urls contains recipe.url %}
+        {% assign other_desserts = other_desserts | push: recipe %}
+      {% endunless %}
+    {% endfor %}
+    {% if other_desserts.size > 0 %}
+      <h4 class="blue mt3 mb1">Other</h4>
+      <ul class="tag-recipe-list">
+        {% for recipe in other_desserts %}
+        <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
+  {% else %}
+    <ul class="tag-recipe-list">
+      {% for recipe in tag_recipes %}
+      <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
+      {% endfor %}
+    </ul>
+  {% endif %}
+
+</div>

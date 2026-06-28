@@ -51,6 +51,9 @@ a:hover .image{opacity:0.2;}
 .footer-source { font-size: 0.75rem; }
 .print-source { display: none; }
 
+.tag-recipe-list { columns: 2; column-gap: 2rem; }
+@media all and (max-width: 40em) { .tag-recipe-list { columns: 1; } }
+
 @media print {
   .site-title { display: none; }
   .footer { display: none; }

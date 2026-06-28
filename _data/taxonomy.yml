@@ -1,0 +1,71 @@
+status:
+  label: Status
+  tags:
+    - Keeper
+    - Not Tried
+
+course:
+  label: Course
+  tags:
+    - Appetizer
+    - Breakfast
+    - Soup
+    - Salad
+    - Main
+    - Side
+    - Dessert
+    - Sauce
+    - Drink
+
+dessert_types:
+  label: Dessert Types
+  tags:
+    - Cake
+    - Cookie
+    - Pie
+    - Pudding
+    - Frozen
+    - Candy
+
+cuisine:
+  label: Cuisine
+  tags:
+    - American
+    - Italian
+    - French
+    - Mexican
+    - Indian
+    - Thai
+    - Chinese
+    - Japanese
+    - Korean
+    - Mediterranean
+    - Middle Eastern
+
+protein:
+  label: Protein
+  tags:
+    - Chicken
+    - Beef
+    - Pork
+    - Lamb
+    - Seafood
+    - Vegetarian
+    - Egg
+
+method:
+  label: Method
+  tags:
+    - Baked
+    - Grilled
+    - Slow Cooker
+    - Instant Pot
+    - One Pan
+    - No Cook
+
+occasion:
+  label: Occasion
+  tags:
+    - Weeknight
+    - Weekend Project
+    - Entertaining
