@@ -64,6 +64,45 @@ layout: default
       </ul>
     {% endif %}
 
+  {% elsif site.data.taxonomy.cuisine.tags contains page.tag %}
+    {% comment %} Cuisine page: group by course {% endcomment %}
+    {% assign courses = site.data.taxonomy.course.tags %}
+    {% assign shown_urls = "" | split: "" %}
+
+    {% for course in courses %}
+      {% assign course_recipes = "" | split: "" %}
+      {% for recipe in tag_recipes %}
+        {% assign rtags = recipe.tags | join: ',' | split: ',' | map: 'strip' %}
+        {% if rtags contains course %}
+          {% assign course_recipes = course_recipes | push: recipe %}
+          {% assign shown_urls = shown_urls | push: recipe.url %}
+        {% endif %}
+      {% endfor %}
+      {% if course_recipes.size > 0 %}
+        <h4 class="blue mt3 mb1">{{ course }}</h4>
+        <ul class="tag-recipe-list">
+          {% for recipe in course_recipes %}
+          <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
+          {% endfor %}
+        </ul>
+      {% endif %}
+    {% endfor %}
+
+    {% assign other_recipes = "" | split: "" %}
+    {% for recipe in tag_recipes %}
+      {% unless shown_urls contains recipe.url %}
+        {% assign other_recipes = other_recipes | push: recipe %}
+      {% endunless %}
+    {% endfor %}
+    {% if other_recipes.size > 0 %}
+      <h4 class="blue mt3 mb1">Other</h4>
+      <ul class="tag-recipe-list">
+        {% for recipe in other_recipes %}
+        <li><a href="{{ recipe.url | relative_url }}">{{ recipe.title }}</a></li>
+        {% endfor %}
+      </ul>
+    {% endif %}
+
   {% else %}
     <ul class="tag-recipe-list">
       {% for recipe in tag_recipes %}
