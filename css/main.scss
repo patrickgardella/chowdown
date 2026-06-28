@@ -71,6 +71,7 @@ a:hover .image{opacity:0.2;}
 @media all and (max-width: 40em) { .tag-recipe-list { columns: 1; } }
 
 @media print {
+  @page { margin-left: 1.25in; margin-right: 0.75in; margin-top: 0.75in; margin-bottom: 0.75in; }
   .site-title { display: none; }
   .footer { display: none; }
   .post-title { margin-top: 0.25rem; margin-bottom: 0.25rem; }
