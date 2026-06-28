@@ -33,7 +33,7 @@ layout: default
     {% for subtype in dessert_types %}
       {% assign subtype_recipes = "" | split: "" %}
       {% for recipe in tag_recipes %}
-        {% assign rtags = recipe.tags | join: ',' | split: ',' | map: 'strip' %}
+        {% assign rtags = recipe.tags | join: ',' | split: ',' %}
         {% if rtags contains subtype %}
           {% assign subtype_recipes = subtype_recipes | push: recipe %}
           {% assign shown_urls = shown_urls | push: recipe.url %}
@@ -72,7 +72,7 @@ layout: default
     {% for course in courses %}
       {% assign course_recipes = "" | split: "" %}
       {% for recipe in tag_recipes %}
-        {% assign rtags = recipe.tags | join: ',' | split: ',' | map: 'strip' %}
+        {% assign rtags = recipe.tags | join: ',' | split: ',' %}
         {% if rtags contains course %}
           {% assign course_recipes = course_recipes | push: recipe %}
           {% assign shown_urls = shown_urls | push: recipe.url %}
