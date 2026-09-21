@@ -3,7 +3,9 @@ layout: recipe
 title: "Strawberry Hand Pies"
 image: strawberry-hand-pies.jpg
 imagecredit: Laura Murray
-tags: strawberry, hand pies, black pepper, goat cheese, dessert
+tags:
+  - Dessert
+  - Pie
 
 ingredients:
   # Dough

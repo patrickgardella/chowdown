@@ -1,7 +1,10 @@
 ---
 layout: recipe
 title: "Apple and Honey Rice Kugel"
-tags: kugel dessert rice-pudding baked honey apple
+tags:
+  - Dessert
+  - Pudding
+  - Baked
 ingredients:
   - 4 Tbsp. unsalted butter, melted, plus room-temperature butter for pan
   - 3 large eggs

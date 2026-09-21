@@ -1,7 +1,9 @@
 ---
 layout: recipe
 title: "Anytime Orange Muffins"
-tags: muffins, orange, breakfast, baking
+tags:
+  - Breakfast
+  - Baked
 
 ingredients:
 - 1 cup (2 sticks) unsalted butter, room temperature, plus more for pan

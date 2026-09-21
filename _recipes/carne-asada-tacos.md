@@ -1,7 +1,11 @@
 ---
 layout: recipe
 title: "Carne Asada Tacos"
-tags: dinner, beef, grilling, tacos
+tags:
+  - Main
+  - Beef
+  - Grilled
+  - Mexican
 
 ingredients:
   - "**Steak**"
@@ -16,7 +20,7 @@ ingredients:
   - 2 tsp. apple cider vinegar
   - 2 tsp. ground cumin
   - 2 tsp. red chile powder
-  - '2 lb. ¼"-thick skirt or flank steak, cut into 5"-long pieces - thin steaks
+  - "2 lb. 1/4\"-thick skirt or flank steak, cut into 5\"-long pieces - thin steaks"
   - "**For serving**"
   - Warm corn tortillas, chopped white onion, and lime wedges
 
