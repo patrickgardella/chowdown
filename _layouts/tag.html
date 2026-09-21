@@ -9,13 +9,16 @@ layout: default
 
   <h2 class="mt1 mb3">{{ page.tag }}</h2>
 
-  {% comment %} Collect recipes matching this tag, handling both old comma-string and new list formats {% endcomment %}
+  {% comment %} Collect recipes matching this tag, handling both old comma-string and new list formats.
+       Compare case-insensitively so "Dessert" and "dessert" match the same page. {% endcomment %}
+  {% assign page_tag_down = page.tag | downcase %}
+  {% assign cuisine_tags_down = site.data.taxonomy.cuisine.tags | join: ',' | downcase | split: ',' %}
   {% assign tag_recipes = "" | split: "" %}
   {% for recipe in site.recipes %}
     {% assign recipe_tags = recipe.tags | join: ',' | split: ',' %}
     {% for t in recipe_tags %}
-      {% assign clean_t = t | strip %}
-      {% if clean_t == page.tag %}
+      {% assign clean_t = t | strip | downcase %}
+      {% if clean_t == page_tag_down %}
         {% assign tag_recipes = tag_recipes | push: recipe %}
       {% endif %}
     {% endfor %}
@@ -25,16 +28,19 @@ layout: default
   {% if tag_recipes.size == 0 %}
     <p class="gray">No recipes tagged yet.</p>
 
-  {% elsif page.tag == "Dessert" %}
+  {% elsif page_tag_down == "dessert" %}
     {% comment %} Group by dessert sub-type, list uncategorized at the end {% endcomment %}
     {% assign dessert_types = site.data.taxonomy.dessert_types.tags %}
     {% assign shown_urls = "" | split: "" %}
 
     {% for subtype in dessert_types %}
+      {% assign subtype_down = subtype | downcase %}
       {% assign subtype_recipes = "" | split: "" %}
       {% for recipe in tag_recipes %}
-        {% assign rtags = recipe.tags | join: ',' | split: ',' %}
-        {% if rtags contains subtype %}
+        {% assign rtags = recipe.tags | join: ',' | downcase | split: ',' %}
+        {% assign rtags_stripped = "" | split: "" %}
+        {% for rt in rtags %}{% assign rs = rt | strip %}{% assign rtags_stripped = rtags_stripped | push: rs %}{% endfor %}
+        {% if rtags_stripped contains subtype_down %}
           {% assign subtype_recipes = subtype_recipes | push: recipe %}
           {% assign shown_urls = shown_urls | push: recipe.url %}
         {% endif %}
@@ -64,16 +70,19 @@ layout: default
       </ul>
     {% endif %}
 
-  {% elsif site.data.taxonomy.cuisine.tags contains page.tag %}
+  {% elsif cuisine_tags_down contains page_tag_down %}
     {% comment %} Cuisine page: group by course {% endcomment %}
     {% assign courses = site.data.taxonomy.course.tags %}
     {% assign shown_urls = "" | split: "" %}
 
     {% for course in courses %}
+      {% assign course_down = course | downcase %}
       {% assign course_recipes = "" | split: "" %}
       {% for recipe in tag_recipes %}
-        {% assign rtags = recipe.tags | join: ',' | split: ',' %}
-        {% if rtags contains course %}
+        {% assign rtags = recipe.tags | join: ',' | downcase | split: ',' %}
+        {% assign rtags_stripped = "" | split: "" %}
+        {% for rt in rtags %}{% assign rs = rt | strip %}{% assign rtags_stripped = rtags_stripped | push: rs %}{% endfor %}
+        {% if rtags_stripped contains course_down %}
           {% assign course_recipes = course_recipes | push: recipe %}
           {% assign shown_urls = shown_urls | push: recipe.url %}
         {% endif %}
